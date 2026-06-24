@@ -113,7 +113,8 @@ def _blank_ats_stats() -> dict:
         "jobs_scored": 0,
         "jobs_score_failed": 0,
         "jobs_alerted": 0,
-        "jobs_alert_failed": 0,
+        "jobs_alert_failed": 0, 
+        abfdf
     }
 
 
