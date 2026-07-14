@@ -4320,8 +4320,8 @@
     "alerted": true
   },
   "greenhouse:twilio:7605743": {
-    "updated_at": "2026-07-09T14:09:22-04:00",
-    "title": "Software Engineer",
+    "updated_at": "2026-07-14T13:36:16-04:00",
+    "title": "Software Engineer, Identity",
     "company": "twilio",
     "ats": "greenhouse",
     "source_slug": "twilio",
@@ -4344,7 +4344,7 @@
     "alerted": true
   },
   "greenhouse:twilio:7647708": {
-    "updated_at": "2026-07-13T10:36:17-04:00",
+    "updated_at": "2026-07-14T14:34:21-04:00",
     "title": "Software Engineer",
     "company": "twilio",
     "ats": "greenhouse",
@@ -10552,7 +10552,7 @@
     "alerted": true
   },
   "greenhouse:anthropic:5023394008": {
-    "updated_at": "2026-07-13T23:06:50-04:00",
+    "updated_at": "2026-07-14T14:24:15-04:00",
     "title": "Anthropic Fellows Program",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -10560,7 +10560,7 @@
     "alerted": true
   },
   "greenhouse:anthropic:5030244008": {
-    "updated_at": "2026-05-20T18:36:32-04:00",
+    "updated_at": "2026-07-14T14:16:10-04:00",
     "title": "Anthropic Fellows Program, AI Security",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -12528,7 +12528,7 @@
     "alerted": true
   },
   "greenhouse:braze:7365359": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:33:07-04:00",
     "title": "Senior Software Engineer I, Full-stack",
     "company": "braze",
     "ats": "greenhouse",
@@ -12536,7 +12536,7 @@
     "alerted": true
   },
   "greenhouse:braze:7374370": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:33:07-04:00",
     "title": "Senior Software Engineer I, Full-stack",
     "company": "braze",
     "ats": "greenhouse",
@@ -12544,7 +12544,7 @@
     "alerted": true
   },
   "greenhouse:braze:7374363": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:33:07-04:00",
     "title": "Senior Software Engineer I, Full-stack",
     "company": "braze",
     "ats": "greenhouse",
@@ -12552,7 +12552,7 @@
     "alerted": true
   },
   "greenhouse:braze:7374361": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:33:07-04:00",
     "title": "Senior Software Engineer I, Full-stack",
     "company": "braze",
     "ats": "greenhouse",
@@ -21840,7 +21840,7 @@
     "alerted": true
   },
   "greenhouse:braze:7788980": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:34:01-04:00",
     "title": "Engineering Manager, Data Streaming",
     "company": "braze",
     "ats": "greenhouse",
@@ -23944,7 +23944,7 @@
     "alerted": true
   },
   "greenhouse:twilio:7188174": {
-    "updated_at": "2026-07-10T15:03:52-04:00",
+    "updated_at": "2026-07-14T14:34:21-04:00",
     "title": "Software Engineer (L2)",
     "company": "twilio",
     "ats": "greenhouse",
@@ -24096,7 +24096,7 @@
     "alerted": true
   },
   "greenhouse:anthropic:5183044008": {
-    "updated_at": "2026-05-20T18:36:22-04:00",
+    "updated_at": "2026-07-14T14:16:02-04:00",
     "title": "Anthropic Fellows Program, AI Safety",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -24104,7 +24104,7 @@
     "alerted": true
   },
   "greenhouse:anthropic:5183051008": {
-    "updated_at": "2026-05-20T18:36:58-04:00",
+    "updated_at": "2026-07-14T14:16:19-04:00",
     "title": "Anthropic Fellows Program, ML Systems & Performance",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -24112,7 +24112,7 @@
     "alerted": true
   },
   "greenhouse:anthropic:5183052008": {
-    "updated_at": "2026-05-20T18:37:06-04:00",
+    "updated_at": "2026-07-14T14:16:26-04:00",
     "title": "Anthropic Fellows Program, Reinforcement Learning",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -25040,7 +25040,7 @@
     "alerted": false
   },
   "greenhouse:braze:7752250": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:33:53-04:00",
     "title": "Senior AI Success Manager",
     "company": "braze",
     "ats": "greenhouse",
@@ -25048,7 +25048,7 @@
     "alerted": false
   },
   "greenhouse:braze:7769085": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:33:53-04:00",
     "title": "Senior AI Success Manager",
     "company": "braze",
     "ats": "greenhouse",
@@ -25056,7 +25056,7 @@
     "alerted": false
   },
   "greenhouse:braze:7769071": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:33:53-04:00",
     "title": "Senior AI Success Manager",
     "company": "braze",
     "ats": "greenhouse",
@@ -25064,7 +25064,7 @@
     "alerted": false
   },
   "greenhouse:braze:7769077": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:33:53-04:00",
     "title": "Senior AI Success Manager",
     "company": "braze",
     "ats": "greenhouse",
@@ -33664,7 +33664,7 @@
     "alerted": false
   },
   "greenhouse:waymo:7683884": {
-    "updated_at": "2026-06-16T23:09:54-04:00",
+    "updated_at": "2026-07-14T14:27:41-04:00",
     "title": "Senior Signal Integrity Engineer",
     "company": "waymo",
     "ats": "greenhouse",
@@ -35160,8 +35160,8 @@
     "alerted": false
   },
   "greenhouse:verkada:5057188007": {
-    "updated_at": "2026-07-07T12:35:01-04:00",
-    "title": "Director of Public Sector Business Development",
+    "updated_at": "2026-07-14T14:37:51-04:00",
+    "title": "Head of Government Affairs",
     "company": "verkada",
     "ats": "greenhouse",
     "source_slug": "verkada",
@@ -47144,7 +47144,7 @@
     "alerted": false
   },
   "greenhouse:braze:7838111": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:34:24-04:00",
     "title": "Senior Product Manager",
     "company": "braze",
     "ats": "greenhouse",
@@ -47152,7 +47152,7 @@
     "alerted": false
   },
   "greenhouse:braze:7838108": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:34:24-04:00",
     "title": "Senior Product Manager",
     "company": "braze",
     "ats": "greenhouse",
@@ -47160,7 +47160,7 @@
     "alerted": false
   },
   "greenhouse:braze:7838105": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:34:24-04:00",
     "title": "Senior Product Manager",
     "company": "braze",
     "ats": "greenhouse",
@@ -47168,7 +47168,7 @@
     "alerted": false
   },
   "greenhouse:braze:7821455": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:34:24-04:00",
     "title": "Senior Product Manager",
     "company": "braze",
     "ats": "greenhouse",
@@ -48384,7 +48384,7 @@
     "alerted": false
   },
   "greenhouse:braze:7818850": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:34:21-04:00",
     "title": "Senior Business Development Representative",
     "company": "braze",
     "ats": "greenhouse",
@@ -49080,7 +49080,7 @@
     "alerted": false
   },
   "greenhouse:braze:7793490": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:34:06-04:00",
     "title": "Account Executive, Central America LATAM",
     "company": "braze",
     "ats": "greenhouse",
@@ -50200,8 +50200,8 @@
     "alerted": false
   },
   "greenhouse:purestorage:7597163": {
-    "updated_at": "2026-06-27T01:15:41-04:00",
-    "title": "Director, CTO Architect",
+    "updated_at": "2026-07-14T14:05:52-04:00",
+    "title": "Director, Configure-To-Order Architect",
     "company": "purestorage",
     "ats": "greenhouse",
     "source_slug": "purestorage",
@@ -55584,7 +55584,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4658270006": {
-    "updated_at": "2026-07-01T11:54:53-04:00",
+    "updated_at": "2026-07-14T14:23:58-04:00",
     "title": "Data Center OFCI Quality Manager",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -57272,7 +57272,7 @@
     "alerted": false
   },
   "greenhouse:braze:7797704": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:33:58-04:00",
     "title": "Senior Lead AI Solutions Consultant",
     "company": "braze",
     "ats": "greenhouse",
@@ -63368,7 +63368,7 @@
     "alerted": false
   },
   "greenhouse:braze:7810802": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:34:18-04:00",
     "title": "Team Lead, Solutions Consulting",
     "company": "braze",
     "ats": "greenhouse",
@@ -63672,7 +63672,7 @@
     "alerted": false
   },
   "greenhouse:braze:7793248": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:33:56-04:00",
     "title": "Payroll Lead",
     "company": "braze",
     "ats": "greenhouse",
@@ -63840,7 +63840,7 @@
     "alerted": false
   },
   "greenhouse:verkada:4087051007": {
-    "updated_at": "2026-07-09T14:17:20-04:00",
+    "updated_at": "2026-07-14T13:46:19-04:00",
     "title": "Account Executive, Territory (Mid-Market)",
     "company": "verkada",
     "ats": "greenhouse",
@@ -69048,7 +69048,7 @@
     "alerted": false
   },
   "greenhouse:braze:7818684": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:34:30-04:00",
     "title": "Senior Solutions Consultant, Media and Entertainment",
     "company": "braze",
     "ats": "greenhouse",
@@ -69056,7 +69056,7 @@
     "alerted": false
   },
   "greenhouse:braze:7812799": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:34:30-04:00",
     "title": "Senior Solutions Consultant, Media and Entertainment",
     "company": "braze",
     "ats": "greenhouse",
@@ -70136,7 +70136,7 @@
     "alerted": false
   },
   "greenhouse:braze:7794066": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:34:11-04:00",
     "title": "Account Executive, Enterprise",
     "company": "braze",
     "ats": "greenhouse",
@@ -77904,7 +77904,7 @@
     "alerted": false
   },
   "greenhouse:braze:7683714": {
-    "updated_at": "2026-07-10T12:59:42-04:00",
+    "updated_at": "2026-07-14T13:33:34-04:00",
     "title": "Senior Software Engineer, Content Cards",
     "company": "braze",
     "ats": "greenhouse",
@@ -88568,7 +88568,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8431927002": {
-    "updated_at": "2026-07-01T18:31:31-04:00",
+    "updated_at": "2026-07-14T13:31:09-04:00",
     "title": "Customer Enablement Specialist",
     "company": "databricks",
     "ats": "greenhouse",
@@ -88576,7 +88576,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8431935002": {
-    "updated_at": "2026-07-01T18:31:31-04:00",
+    "updated_at": "2026-07-14T13:31:15-04:00",
     "title": "Customer Enablement Specialist",
     "company": "databricks",
     "ats": "greenhouse",
@@ -100088,7 +100088,7 @@
     "alerted": false
   },
   "greenhouse:datadog:1497543": {
-    "updated_at": "2026-07-08T15:25:07-04:00",
+    "updated_at": "2026-07-14T13:56:16-04:00",
     "title": "Commercial Account Executive - Boston",
     "company": "datadog",
     "ats": "greenhouse",
@@ -105728,7 +105728,7 @@
     "alerted": false
   },
   "greenhouse:braze:7739238": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:33:50-04:00",
     "title": "Account Manager, LATAM",
     "company": "braze",
     "ats": "greenhouse",
@@ -112120,7 +112120,7 @@
     "alerted": false
   },
   "greenhouse:braze:7733783": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:33:47-04:00",
     "title": "Principal, Strategic AI Sales",
     "company": "braze",
     "ats": "greenhouse",
@@ -112680,7 +112680,7 @@
     "alerted": false
   },
   "greenhouse:braze:7732066": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:33:47-04:00",
     "title": "Principal, Strategic AI Sales",
     "company": "braze",
     "ats": "greenhouse",
@@ -114472,7 +114472,7 @@
     "alerted": false
   },
   "greenhouse:braze:7668561": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:33:36-04:00",
     "title": "Data Scientist II (AI Deployment)",
     "company": "braze",
     "ats": "greenhouse",
@@ -117528,7 +117528,7 @@
     "alerted": false
   },
   "greenhouse:braze:7615648": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:33:28-04:00",
     "title": "Engagement Manager II",
     "company": "braze",
     "ats": "greenhouse",
@@ -117640,7 +117640,7 @@
     "alerted": false
   },
   "greenhouse:braze:7431841": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:33:25-04:00",
     "title": "Account Executive, Strategic Enterprise",
     "company": "braze",
     "ats": "greenhouse",
@@ -122104,7 +122104,7 @@
     "alerted": false
   },
   "greenhouse:braze:7825952": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:34:27-04:00",
     "title": "Account Executive, Enterprise",
     "company": "braze",
     "ats": "greenhouse",
@@ -123840,7 +123840,7 @@
     "alerted": false
   },
   "greenhouse:braze:7842456": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:34:33-04:00",
     "title": "Senior Business Operations Manager",
     "company": "braze",
     "ats": "greenhouse",
@@ -126624,7 +126624,7 @@
     "alerted": true
   },
   "greenhouse:anthropic:5183053008": {
-    "updated_at": "2026-05-26T14:32:58-04:00",
+    "updated_at": "2026-07-14T14:26:06-04:00",
     "title": "Anthropic Fellows Program, The Anthropic Institute (Economics & Policy)",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -130248,7 +130248,7 @@
     "alerted": false
   },
   "greenhouse:bitgo:8523884002": {
-    "updated_at": "2026-06-02T11:31:41-04:00",
+    "updated_at": "2026-07-14T14:19:57-04:00",
     "title": "Product Marketing Manager, Prime / OTC",
     "company": "bitgo",
     "ats": "greenhouse",
@@ -130256,7 +130256,7 @@
     "alerted": false
   },
   "greenhouse:bitgo:8523899002": {
-    "updated_at": "2026-06-02T11:31:41-04:00",
+    "updated_at": "2026-07-14T14:19:57-04:00",
     "title": "Product Marketing Manager",
     "company": "bitgo",
     "ats": "greenhouse",
@@ -130264,7 +130264,7 @@
     "alerted": false
   },
   "greenhouse:bitgo:8523881002": {
-    "updated_at": "2026-06-02T11:31:41-04:00",
+    "updated_at": "2026-07-14T14:19:52-04:00",
     "title": "Product Marketing Manager, Prime / OTC",
     "company": "bitgo",
     "ats": "greenhouse",
@@ -130272,7 +130272,7 @@
     "alerted": false
   },
   "greenhouse:bitgo:8523894002": {
-    "updated_at": "2026-06-02T11:31:41-04:00",
+    "updated_at": "2026-07-14T14:19:58-04:00",
     "title": "Product Marketing Manager",
     "company": "bitgo",
     "ats": "greenhouse",
@@ -130280,7 +130280,7 @@
     "alerted": false
   },
   "greenhouse:bitgo:8523889002": {
-    "updated_at": "2026-06-02T11:31:41-04:00",
+    "updated_at": "2026-07-14T14:19:59-04:00",
     "title": "Product Marketing Manager",
     "company": "bitgo",
     "ats": "greenhouse",
@@ -130416,7 +130416,7 @@
     "alerted": false
   },
   "greenhouse:braze:7858269": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:34:35-04:00",
     "title": "Senior Lead AI Solutions Consultant",
     "company": "braze",
     "ats": "greenhouse",
@@ -130424,7 +130424,7 @@
     "alerted": false
   },
   "greenhouse:braze:7858259": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:34:35-04:00",
     "title": "Senior Lead AI Solutions Consultant",
     "company": "braze",
     "ats": "greenhouse",
@@ -130432,7 +130432,7 @@
     "alerted": false
   },
   "greenhouse:braze:7858239": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:34:35-04:00",
     "title": "Senior Lead AI Solutions Consultant",
     "company": "braze",
     "ats": "greenhouse",
@@ -130480,7 +130480,7 @@
     "alerted": false
   },
   "greenhouse:braze:7833986": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:34:35-04:00",
     "title": "Senior Lead AI Solutions Consultant",
     "company": "braze",
     "ats": "greenhouse",
@@ -130768,7 +130768,7 @@
     "alerted": false
   },
   "greenhouse:datadog:7228240": {
-    "updated_at": "2026-07-10T07:00:24-04:00",
+    "updated_at": "2026-07-14T14:31:11-04:00",
     "title": "Customer Success Associate - Denver",
     "company": "datadog",
     "ats": "greenhouse",
@@ -136360,7 +136360,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8520123002": {
-    "updated_at": "2026-07-01T18:31:37-04:00",
+    "updated_at": "2026-07-14T13:31:21-04:00",
     "title": "Senior Customer Enablement Architect",
     "company": "databricks",
     "ats": "greenhouse",
@@ -141000,7 +141000,7 @@
     "alerted": false
   },
   "greenhouse:braze:7807598": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:34:15-04:00",
     "title": "Account Executive, Enterprise",
     "company": "braze",
     "ats": "greenhouse",
@@ -143504,7 +143504,7 @@
     "alerted": false
   },
   "greenhouse:braze:7891507": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:34:45-04:00",
     "title": "Senior Manager, Technical Partner Solutions",
     "company": "braze",
     "ats": "greenhouse",
@@ -143512,7 +143512,7 @@
     "alerted": false
   },
   "greenhouse:braze:7891505": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:34:45-04:00",
     "title": "Senior Manager, Technical Partner Solutions",
     "company": "braze",
     "ats": "greenhouse",
@@ -143520,7 +143520,7 @@
     "alerted": false
   },
   "greenhouse:braze:7891501": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:34:45-04:00",
     "title": "Senior Manager, Technical Partner Solutions",
     "company": "braze",
     "ats": "greenhouse",
@@ -143528,7 +143528,7 @@
     "alerted": false
   },
   "greenhouse:braze:7872593": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:34:45-04:00",
     "title": "Senior Manager, Technical Partner Solutions",
     "company": "braze",
     "ats": "greenhouse",
@@ -147424,7 +147424,7 @@
     "alerted": false
   },
   "greenhouse:braze:7899151": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:35:02-04:00",
     "title": "Solutions Architect",
     "company": "braze",
     "ats": "greenhouse",
@@ -149280,7 +149280,7 @@
     "alerted": false
   },
   "greenhouse:elastic:7904545": {
-    "updated_at": "2026-07-09T13:56:34-04:00",
+    "updated_at": "2026-07-14T13:48:52-04:00",
     "title": "Partner Marketing Manager - Strategic Partners",
     "company": "elastic",
     "ats": "greenhouse",
@@ -150128,7 +150128,7 @@
     "alerted": true
   },
   "greenhouse:braze:7902061": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:34:57-04:00",
     "title": "Director of New Business Sales, Emerging Enterprise",
     "company": "braze",
     "ats": "greenhouse",
@@ -150744,7 +150744,7 @@
     "alerted": false
   },
   "greenhouse:braze:7889882": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:34:57-04:00",
     "title": "Director of New Business Sales, Emerging Enterprise",
     "company": "braze",
     "ats": "greenhouse",
@@ -150824,7 +150824,7 @@
     "alerted": false
   },
   "greenhouse:braze:7896284": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:34:48-04:00",
     "title": "Senior Sales Data Analyst",
     "company": "braze",
     "ats": "greenhouse",
@@ -152464,7 +152464,7 @@
     "alerted": false
   },
   "greenhouse:braze:7858203": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:34:42-04:00",
     "title": "CPaaS FinOps Lead",
     "company": "braze",
     "ats": "greenhouse",
@@ -153456,7 +153456,7 @@
     "alerted": false
   },
   "greenhouse:braze:7914092": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:34:54-04:00",
     "title": "Senior Staff Engineer",
     "company": "braze",
     "ats": "greenhouse",
@@ -153464,7 +153464,7 @@
     "alerted": false
   },
   "greenhouse:braze:7914090": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:34:54-04:00",
     "title": "Senior Staff Engineer",
     "company": "braze",
     "ats": "greenhouse",
@@ -153472,7 +153472,7 @@
     "alerted": false
   },
   "greenhouse:braze:7914087": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:34:54-04:00",
     "title": "Senior Staff Engineer",
     "company": "braze",
     "ats": "greenhouse",
@@ -153480,7 +153480,7 @@
     "alerted": false
   },
   "greenhouse:braze:7905995": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:34:54-04:00",
     "title": "Senior Staff Engineer",
     "company": "braze",
     "ats": "greenhouse",
@@ -154448,7 +154448,7 @@
     "alerted": false
   },
   "greenhouse:braze:7916801": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:34:45-04:00",
     "title": "Senior Manager, Technical Partner Solutions",
     "company": "braze",
     "ats": "greenhouse",
@@ -155880,7 +155880,7 @@
     "alerted": false
   },
   "greenhouse:braze:7918218": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:35:09-04:00",
     "title": "Global Integrated Campaign Manager",
     "company": "braze",
     "ats": "greenhouse",
@@ -158352,7 +158352,7 @@
     "alerted": false
   },
   "greenhouse:braze:7915362": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:35:06-04:00",
     "title": "Manager, Technical Support",
     "company": "braze",
     "ats": "greenhouse",
@@ -158360,7 +158360,7 @@
     "alerted": false
   },
   "greenhouse:braze:7915390": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:35:15-04:00",
     "title": "Technical Support Specialist",
     "company": "braze",
     "ats": "greenhouse",
@@ -158464,7 +158464,7 @@
     "alerted": false
   },
   "greenhouse:braze:7918224": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:35:21-04:00",
     "title": "Customer Success Manager II, Retail",
     "company": "braze",
     "ats": "greenhouse",
@@ -161488,7 +161488,7 @@
     "alerted": false
   },
   "greenhouse:braze:7926875": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:35:12-04:00",
     "title": "Network Engineer",
     "company": "braze",
     "ats": "greenhouse",
@@ -161544,7 +161544,7 @@
     "alerted": false
   },
   "greenhouse:braze:7931289": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:35:24-04:00",
     "title": "Incident Manager",
     "company": "braze",
     "ats": "greenhouse",
@@ -161552,7 +161552,7 @@
     "alerted": false
   },
   "greenhouse:braze:7926879": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:35:24-04:00",
     "title": "Senior Incident Manager",
     "company": "braze",
     "ats": "greenhouse",
@@ -166816,8 +166816,8 @@
     "alerted": false
   },
   "greenhouse:twilio:7926883": {
-    "updated_at": "2026-07-09T14:09:23-04:00",
-    "title": "Software Engineer (L3)",
+    "updated_at": "2026-07-14T13:47:55-04:00",
+    "title": "Sr. Software Engineer, Identity",
     "company": "twilio",
     "ats": "greenhouse",
     "source_slug": "twilio",
@@ -171056,7 +171056,7 @@
     "alerted": false
   },
   "greenhouse:braze:7954221": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:35:28-04:00",
     "title": "Engineering Manager, Email",
     "company": "braze",
     "ats": "greenhouse",
@@ -171064,7 +171064,7 @@
     "alerted": false
   },
   "greenhouse:braze:7954220": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:35:28-04:00",
     "title": "Engineering Manager, Email",
     "company": "braze",
     "ats": "greenhouse",
@@ -171072,7 +171072,7 @@
     "alerted": false
   },
   "greenhouse:braze:7954218": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:35:28-04:00",
     "title": "Engineering Manager, Email",
     "company": "braze",
     "ats": "greenhouse",
@@ -171080,7 +171080,7 @@
     "alerted": false
   },
   "greenhouse:braze:7939042": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:35:28-04:00",
     "title": "Engineering Manager, Email",
     "company": "braze",
     "ats": "greenhouse",
@@ -171088,7 +171088,7 @@
     "alerted": false
   },
   "greenhouse:braze:7954214": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:35:28-04:00",
     "title": "Engineering Manager, Email",
     "company": "braze",
     "ats": "greenhouse",
@@ -171400,7 +171400,7 @@
     "alerted": false
   },
   "greenhouse:braze:7954594": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:35:34-04:00",
     "title": "Senior Software Engineer I, Frontend Infrasturcture & Experience",
     "company": "braze",
     "ats": "greenhouse",
@@ -171408,7 +171408,7 @@
     "alerted": false
   },
   "greenhouse:braze:7946769": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:35:34-04:00",
     "title": "Senior Software Engineer I, Frontend Infrastructure & Experience",
     "company": "braze",
     "ats": "greenhouse",
@@ -172656,7 +172656,7 @@
     "alerted": false
   },
   "greenhouse:twilio:7946608": {
-    "updated_at": "2026-07-14T10:27:22-04:00",
+    "updated_at": "2026-07-14T14:33:16-04:00",
     "title": "Frontend Software Engineer",
     "company": "twilio",
     "ats": "greenhouse",
@@ -172760,7 +172760,7 @@
     "alerted": false
   },
   "greenhouse:braze:7956629": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:33:36-04:00",
     "title": "Senior Data Scientist (AI Deployment)",
     "company": "braze",
     "ats": "greenhouse",
@@ -174288,7 +174288,7 @@
     "alerted": false
   },
   "greenhouse:braze:7947577": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:35:36-04:00",
     "title": "Senior Software Engineer II, BrazeAI Operator",
     "company": "braze",
     "ats": "greenhouse",
@@ -175296,8 +175296,8 @@
     "alerted": false
   },
   "greenhouse:cloudflare:7956758": {
-    "updated_at": "2026-07-02T20:08:25-04:00",
-    "title": "Senior Field Solutions Engineer",
+    "updated_at": "2026-07-14T14:11:00-04:00",
+    "title": "Principal Solutions Engineer",
     "company": "cloudflare",
     "ats": "greenhouse",
     "source_slug": "cloudflare",
@@ -175544,7 +175544,7 @@
     "alerted": false
   },
   "greenhouse:braze:7960559": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:35:31-04:00",
     "title": "Sales Operations Lead",
     "company": "braze",
     "ats": "greenhouse",
@@ -175552,7 +175552,7 @@
     "alerted": false
   },
   "greenhouse:braze:7943440": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:35:31-04:00",
     "title": "Sales Operations Lead",
     "company": "braze",
     "ats": "greenhouse",
@@ -175984,7 +175984,7 @@
     "alerted": false
   },
   "greenhouse:braze:7954751": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:35:41-04:00",
     "title": "Senior Marketing Manager, Localization",
     "company": "braze",
     "ats": "greenhouse",
@@ -181448,7 +181448,7 @@
     "alerted": false
   },
   "greenhouse:braze:7966816": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:35:57-04:00",
     "title": "Manager, Business Development",
     "company": "braze",
     "ats": "greenhouse",
@@ -184440,7 +184440,7 @@
     "alerted": false
   },
   "greenhouse:braze:7977103": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:36:08-04:00",
     "title": "Solutions Engineer, Security & Privacy",
     "company": "braze",
     "ats": "greenhouse",
@@ -184448,7 +184448,7 @@
     "alerted": false
   },
   "greenhouse:braze:7977098": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:36:08-04:00",
     "title": "Solutions Engineer, Security & Privacy",
     "company": "braze",
     "ats": "greenhouse",
@@ -184456,7 +184456,7 @@
     "alerted": false
   },
   "greenhouse:braze:7977097": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:36:08-04:00",
     "title": "Solutions Engineer, Security & Privacy",
     "company": "braze",
     "ats": "greenhouse",
@@ -184464,7 +184464,7 @@
     "alerted": false
   },
   "greenhouse:braze:7976554": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:36:08-04:00",
     "title": "Solutions Engineer, Security & Privacy",
     "company": "braze",
     "ats": "greenhouse",
@@ -185176,7 +185176,7 @@
     "alerted": false
   },
   "greenhouse:braze:7976691": {
-    "updated_at": "2026-07-09T06:01:53-04:00",
+    "updated_at": "2026-07-14T13:36:11-04:00",
     "title": "Technical Support Specialist",
     "company": "braze",
     "ats": "greenhouse",
@@ -185344,7 +185344,7 @@
     "alerted": false
   },
   "greenhouse:godaddy:7639627003": {
-    "updated_at": "2026-06-03T14:01:11-04:00",
+    "updated_at": "2026-07-14T13:37:06-04:00",
     "title": "Security Engineer",
     "company": "godaddy",
     "ats": "greenhouse",
@@ -185984,7 +185984,7 @@
     "alerted": false
   },
   "greenhouse:braze:7966154": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:35:55-04:00",
     "title": "Forward-Deployed Data Scientist II",
     "company": "braze",
     "ats": "greenhouse",
@@ -186736,7 +186736,7 @@
     "alerted": false
   },
   "greenhouse:braze:7980448": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:36:27-04:00",
     "title": "Senior Site Reliability Engineer",
     "company": "braze",
     "ats": "greenhouse",
@@ -188472,7 +188472,7 @@
     "alerted": false
   },
   "greenhouse:braze:7979912": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:36:22-04:00",
     "title": "AV Associate",
     "company": "braze",
     "ats": "greenhouse",
@@ -188928,7 +188928,7 @@
     "alerted": false
   },
   "greenhouse:braze:7983203": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:35:49-04:00",
     "title": "Team Lead, Email Deliverability",
     "company": "braze",
     "ats": "greenhouse",
@@ -188936,7 +188936,7 @@
     "alerted": false
   },
   "greenhouse:braze:7983204": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:35:49-04:00",
     "title": "Team Lead, Email Deliverability",
     "company": "braze",
     "ats": "greenhouse",
@@ -188944,7 +188944,7 @@
     "alerted": false
   },
   "greenhouse:braze:7983202": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:35:49-04:00",
     "title": "Team Lead, Email Deliverability",
     "company": "braze",
     "ats": "greenhouse",
@@ -188952,7 +188952,7 @@
     "alerted": false
   },
   "greenhouse:braze:7963459": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:35:49-04:00",
     "title": "Team Lead, Email Deliverability",
     "company": "braze",
     "ats": "greenhouse",
@@ -190336,7 +190336,7 @@
     "alerted": false
   },
   "greenhouse:braze:7980202": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:36:25-04:00",
     "title": "IT Associate",
     "company": "braze",
     "ats": "greenhouse",
@@ -190624,7 +190624,7 @@
     "alerted": false
   },
   "greenhouse:braze:7983336": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:36:34-04:00",
     "title": "Lead People Business Partner",
     "company": "braze",
     "ats": "greenhouse",
@@ -190632,7 +190632,7 @@
     "alerted": false
   },
   "greenhouse:braze:7985946": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:36:34-04:00",
     "title": "Lead People Business Partner",
     "company": "braze",
     "ats": "greenhouse",
@@ -193424,7 +193424,7 @@
     "alerted": false
   },
   "greenhouse:spacex:8582845002": {
-    "updated_at": "2026-07-09T19:10:27-04:00",
+    "updated_at": "2026-07-14T14:38:14-04:00",
     "title": "Lead Hardware Reliability Engineer (Starlink)",
     "company": "spacex",
     "ats": "greenhouse",
@@ -195032,7 +195032,7 @@
     "alerted": false
   },
   "greenhouse:braze:7991144": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:36:58-04:00",
     "title": "Salesforce Administrator, Experience Cloud",
     "company": "braze",
     "ats": "greenhouse",
@@ -196744,7 +196744,7 @@
     "alerted": false
   },
   "greenhouse:braze:7996810": {
-    "updated_at": "2026-07-07T12:52:30-04:00",
+    "updated_at": "2026-07-14T13:36:14-04:00",
     "title": "Senior Director, Partner Sales",
     "company": "braze",
     "ats": "greenhouse",
@@ -196752,7 +196752,7 @@
     "alerted": false
   },
   "greenhouse:braze:7996819": {
-    "updated_at": "2026-07-07T12:52:46-04:00",
+    "updated_at": "2026-07-14T13:36:14-04:00",
     "title": "Senior Director, Partner Sales",
     "company": "braze",
     "ats": "greenhouse",
@@ -196760,7 +196760,7 @@
     "alerted": false
   },
   "greenhouse:braze:7996804": {
-    "updated_at": "2026-07-07T12:52:12-04:00",
+    "updated_at": "2026-07-14T13:36:14-04:00",
     "title": "Senior Director, Partner Sales",
     "company": "braze",
     "ats": "greenhouse",
@@ -196768,7 +196768,7 @@
     "alerted": false
   },
   "greenhouse:braze:7979701": {
-    "updated_at": "2026-07-07T12:51:57-04:00",
+    "updated_at": "2026-07-14T13:36:14-04:00",
     "title": "Senior Director, Partner Sales",
     "company": "braze",
     "ats": "greenhouse",
@@ -196832,7 +196832,7 @@
     "alerted": false
   },
   "greenhouse:braze:7963381": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:35:47-04:00",
     "title": "Senior Security Engineer, Enterprise Security",
     "company": "braze",
     "ats": "greenhouse",
@@ -197176,16 +197176,16 @@
     "alerted": false
   },
   "greenhouse:samsara:7997311": {
-    "updated_at": "2026-06-11T11:35:47-04:00",
-    "title": "Senior Data Engineer I",
+    "updated_at": "2026-07-14T14:04:14-04:00",
+    "title": "Senior Data Engineer",
     "company": "samsara",
     "ats": "greenhouse",
     "source_slug": "samsara",
     "alerted": false
   },
   "greenhouse:samsara:7859702": {
-    "updated_at": "2026-06-11T11:35:47-04:00",
-    "title": "Senior Data Engineer I",
+    "updated_at": "2026-07-14T14:04:04-04:00",
+    "title": "Senior Data Engineer",
     "company": "samsara",
     "ats": "greenhouse",
     "source_slug": "samsara",
@@ -197736,8 +197736,8 @@
     "alerted": false
   },
   "greenhouse:coinbase:7773776": {
-    "updated_at": "2026-06-26T12:23:59-04:00",
-    "title": "Staff Software Engineer (Platform - FinEng)",
+    "updated_at": "2026-07-14T13:48:12-04:00",
+    "title": "Staff Software Engineer (Platform - Identity IDV)",
     "company": "coinbase",
     "ats": "greenhouse",
     "source_slug": "coinbase",
@@ -199728,7 +199728,7 @@
     "alerted": false
   },
   "greenhouse:braze:7993761": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:36:42-04:00",
     "title": "Senior Internal Auditor",
     "company": "braze",
     "ats": "greenhouse",
@@ -199736,7 +199736,7 @@
     "alerted": false
   },
   "greenhouse:braze:7993760": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:36:42-04:00",
     "title": "Senior Internal Auditor",
     "company": "braze",
     "ats": "greenhouse",
@@ -199744,7 +199744,7 @@
     "alerted": false
   },
   "greenhouse:braze:7992841": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:36:42-04:00",
     "title": "Senior Internal Auditor",
     "company": "braze",
     "ats": "greenhouse",
@@ -199752,7 +199752,7 @@
     "alerted": false
   },
   "greenhouse:braze:8001117": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:35:43-04:00",
     "title": "Forward-Deployed Data Scientist",
     "company": "braze",
     "ats": "greenhouse",
@@ -199760,7 +199760,7 @@
     "alerted": false
   },
   "greenhouse:braze:7959885": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:35:43-04:00",
     "title": "AI Decisioning Technical Lead",
     "company": "braze",
     "ats": "greenhouse",
@@ -199872,7 +199872,7 @@
     "alerted": false
   },
   "greenhouse:braze:8001649": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:37:11-04:00",
     "title": "Senior Director, Community & Advocacy",
     "company": "braze",
     "ats": "greenhouse",
@@ -199880,7 +199880,7 @@
     "alerted": false
   },
   "greenhouse:braze:7997581": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:37:11-04:00",
     "title": "Senior Director, Community & Advocacy",
     "company": "braze",
     "ats": "greenhouse",
@@ -199888,7 +199888,7 @@
     "alerted": false
   },
   "greenhouse:braze:8001658": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:37:11-04:00",
     "title": "Senior Director, Community & Advocacy",
     "company": "braze",
     "ats": "greenhouse",
@@ -199968,7 +199968,7 @@
     "alerted": false
   },
   "greenhouse:braze:7997909": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:36:45-04:00",
     "title": "Senior Director, Creative",
     "company": "braze",
     "ats": "greenhouse",
@@ -199976,7 +199976,7 @@
     "alerted": false
   },
   "greenhouse:braze:7997907": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:36:45-04:00",
     "title": "Senior Director, Creative",
     "company": "braze",
     "ats": "greenhouse",
@@ -199984,7 +199984,7 @@
     "alerted": false
   },
   "greenhouse:braze:7997900": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:36:45-04:00",
     "title": "Senior Director, Creative",
     "company": "braze",
     "ats": "greenhouse",
@@ -199992,7 +199992,7 @@
     "alerted": false
   },
   "greenhouse:braze:7993317": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:36:45-04:00",
     "title": "Senior Director, Creative",
     "company": "braze",
     "ats": "greenhouse",
@@ -200552,7 +200552,7 @@
     "alerted": false
   },
   "greenhouse:braze:8002312": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:37:27-04:00",
     "title": "Senior Customer Success Manager",
     "company": "braze",
     "ats": "greenhouse",
@@ -201768,7 +201768,7 @@
     "alerted": false
   },
   "greenhouse:braze:8003474": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:37:30-04:00",
     "title": "Senior Account Executive, Scale",
     "company": "braze",
     "ats": "greenhouse",
@@ -201776,7 +201776,7 @@
     "alerted": false
   },
   "greenhouse:braze:8003465": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:37:30-04:00",
     "title": "Senior Account Executive, Scale",
     "company": "braze",
     "ats": "greenhouse",
@@ -201784,7 +201784,7 @@
     "alerted": false
   },
   "greenhouse:braze:8003452": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:37:30-04:00",
     "title": "Senior Account Executive, Scale",
     "company": "braze",
     "ats": "greenhouse",
@@ -201792,7 +201792,7 @@
     "alerted": false
   },
   "greenhouse:braze:8003318": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:37:30-04:00",
     "title": "Senior Account Executive, Scale",
     "company": "braze",
     "ats": "greenhouse",
@@ -202632,7 +202632,7 @@
     "alerted": false
   },
   "greenhouse:braze:7990801": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:36:40-04:00",
     "title": "Messaging Operations Specialist",
     "company": "braze",
     "ats": "greenhouse",
@@ -203168,7 +203168,7 @@
     "alerted": false
   },
   "greenhouse:braze:8008006": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:37:11-04:00",
     "title": "Senior Director, Community & Advocacy",
     "company": "braze",
     "ats": "greenhouse",
@@ -203320,7 +203320,7 @@
     "alerted": false
   },
   "greenhouse:braze:7996893": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:37:05-04:00",
     "title": "Workplace Experience Specialist",
     "company": "braze",
     "ats": "greenhouse",
@@ -203360,7 +203360,7 @@
     "alerted": false
   },
   "greenhouse:braze:7963295": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:36:00-04:00",
     "title": "Business Development Representative Intern",
     "company": "braze",
     "ats": "greenhouse",
@@ -205424,7 +205424,7 @@
     "alerted": false
   },
   "greenhouse:braze:7976105": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:36:06-04:00",
     "title": "Forward-Deployed Data Scientist II",
     "company": "braze",
     "ats": "greenhouse",
@@ -205896,7 +205896,7 @@
     "alerted": false
   },
   "greenhouse:braze:8010978": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:37:42-04:00",
     "title": "Support Engagement Lead",
     "company": "braze",
     "ats": "greenhouse",
@@ -205904,7 +205904,7 @@
     "alerted": false
   },
   "greenhouse:braze:8010975": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:37:42-04:00",
     "title": "Support Engagement Lead",
     "company": "braze",
     "ats": "greenhouse",
@@ -205912,7 +205912,7 @@
     "alerted": false
   },
   "greenhouse:braze:8010941": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:37:42-04:00",
     "title": "Support Engagement Lead",
     "company": "braze",
     "ats": "greenhouse",
@@ -205920,7 +205920,7 @@
     "alerted": false
   },
   "greenhouse:braze:8010946": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:37:42-04:00",
     "title": "Support Engagement Lead",
     "company": "braze",
     "ats": "greenhouse",
@@ -205928,7 +205928,7 @@
     "alerted": false
   },
   "greenhouse:braze:8007443": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:37:42-04:00",
     "title": "Support Engagement Lead",
     "company": "braze",
     "ats": "greenhouse",
@@ -206720,7 +206720,7 @@
     "alerted": false
   },
   "greenhouse:twilio:7993530": {
-    "updated_at": "2026-07-13T10:28:18-04:00",
+    "updated_at": "2026-07-14T14:34:21-04:00",
     "title": "Senior Software Engineer",
     "company": "twilio",
     "ats": "greenhouse",
@@ -206736,7 +206736,7 @@
     "alerted": false
   },
   "greenhouse:braze:8002934": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:37:37-04:00",
     "title": "Senior Marketing Data Analyst",
     "company": "braze",
     "ats": "greenhouse",
@@ -207088,7 +207088,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8001576": {
-    "updated_at": "2026-07-14T13:18:23-04:00",
+    "updated_at": "2026-07-14T13:28:03-04:00",
     "title": "Delivery Manager",
     "company": "elastic",
     "ats": "greenhouse",
@@ -207224,7 +207224,7 @@
     "alerted": false
   },
   "greenhouse:braze:8000621": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:37:22-04:00",
     "title": "Email Operations Specialist",
     "company": "braze",
     "ats": "greenhouse",
@@ -208024,7 +208024,7 @@
     "alerted": false
   },
   "greenhouse:braze:8014600": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:36:48-04:00",
     "title": "Solutions Consultant, Emerging Enterprise, General Business",
     "company": "braze",
     "ats": "greenhouse",
@@ -208032,7 +208032,7 @@
     "alerted": false
   },
   "greenhouse:braze:7997850": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:36:48-04:00",
     "title": "Solutions Consultant, Emerging Enterprise, General Business",
     "company": "braze",
     "ats": "greenhouse",
@@ -208040,7 +208040,7 @@
     "alerted": false
   },
   "greenhouse:braze:7997849": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:36:48-04:00",
     "title": "Solutions Consultant, Emerging Enterprise, General Business",
     "company": "braze",
     "ats": "greenhouse",
@@ -208048,7 +208048,7 @@
     "alerted": false
   },
   "greenhouse:braze:7993319": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:36:48-04:00",
     "title": "Solutions Consultant, Emerging Enterprise, General Business",
     "company": "braze",
     "ats": "greenhouse",
@@ -208056,7 +208056,7 @@
     "alerted": false
   },
   "greenhouse:braze:7997848": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:36:48-04:00",
     "title": "Solutions Consultant, Emerging Enterprise, General Business",
     "company": "braze",
     "ats": "greenhouse",
@@ -208144,7 +208144,7 @@
     "alerted": false
   },
   "greenhouse:braze:8014514": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:37:59-04:00",
     "title": "Senior Account Executive, Strategic Enterprise",
     "company": "braze",
     "ats": "greenhouse",
@@ -208152,7 +208152,7 @@
     "alerted": false
   },
   "greenhouse:braze:8010543": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:37:59-04:00",
     "title": "Senior Account Executive, Strategic Enterprise",
     "company": "braze",
     "ats": "greenhouse",
@@ -208160,7 +208160,7 @@
     "alerted": false
   },
   "greenhouse:braze:8014513": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:37:59-04:00",
     "title": "Senior Account Executive, Strategic Enterprise",
     "company": "braze",
     "ats": "greenhouse",
@@ -208656,7 +208656,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7989092": {
-    "updated_at": "2026-07-09T12:04:05-04:00",
+    "updated_at": "2026-07-14T14:30:00-04:00",
     "title": "Member of Technical Staff, Backend - Portworx",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -209408,7 +209408,7 @@
     "alerted": false
   },
   "greenhouse:humaninterest:8013764": {
-    "updated_at": "2026-06-25T15:48:12-04:00",
+    "updated_at": "2026-07-14T13:47:34-04:00",
     "title": "Customer Success Support Associate",
     "company": "humaninterest",
     "ats": "greenhouse",
@@ -209544,7 +209544,7 @@
     "alerted": false
   },
   "greenhouse:braze:7997454": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:37:08-04:00",
     "title": "People Solutions Coordinator (fixed term)",
     "company": "braze",
     "ats": "greenhouse",
@@ -209688,7 +209688,7 @@
     "alerted": false
   },
   "greenhouse:braze:8014700": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:38:13-04:00",
     "title": "Recruitment Coordinator (fixed term)",
     "company": "braze",
     "ats": "greenhouse",
@@ -210352,7 +210352,7 @@
     "alerted": false
   },
   "greenhouse:braze:8017228": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:38:17-04:00",
     "title": "Sales Director, Scale Retail",
     "company": "braze",
     "ats": "greenhouse",
@@ -210360,7 +210360,7 @@
     "alerted": false
   },
   "greenhouse:braze:8017222": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:38:16-04:00",
     "title": "Sales Director, Scale Retail",
     "company": "braze",
     "ats": "greenhouse",
@@ -210368,7 +210368,7 @@
     "alerted": false
   },
   "greenhouse:braze:8017215": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:38:16-04:00",
     "title": "Sales Director, Scale Retail",
     "company": "braze",
     "ats": "greenhouse",
@@ -210376,7 +210376,7 @@
     "alerted": false
   },
   "greenhouse:braze:8017115": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:38:16-04:00",
     "title": "Sales Director, Scale Retail",
     "company": "braze",
     "ats": "greenhouse",
@@ -210408,7 +210408,7 @@
     "alerted": false
   },
   "greenhouse:braze:8008686": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:37:45-04:00",
     "title": "Team Lead Solutions Consultant, Financial Services",
     "company": "braze",
     "ats": "greenhouse",
@@ -210448,7 +210448,7 @@
     "alerted": false
   },
   "greenhouse:braze:8017295": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:37:45-04:00",
     "title": "Team Lead Solutions Consultant, Financial Services",
     "company": "braze",
     "ats": "greenhouse",
@@ -210456,7 +210456,7 @@
     "alerted": false
   },
   "greenhouse:braze:8017298": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:37:45-04:00",
     "title": "Team Lead Solutions Consultant, Financial Services",
     "company": "braze",
     "ats": "greenhouse",
@@ -212152,8 +212152,8 @@
     "alerted": false
   },
   "greenhouse:chime:8584954002": {
-    "updated_at": "2026-07-01T02:35:01-04:00",
-    "title": "Program Manager",
+    "updated_at": "2026-07-14T14:20:32-04:00",
+    "title": "Program Manager, Voice of the Member",
     "company": "chime",
     "ats": "greenhouse",
     "source_slug": "chime",
@@ -212992,7 +212992,7 @@
     "alerted": false
   },
   "greenhouse:braze:8013237": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:38:05-04:00",
     "title": "Staff Accountant II",
     "company": "braze",
     "ats": "greenhouse",
@@ -214904,7 +214904,7 @@
     "alerted": false
   },
   "greenhouse:braze:8023217": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:34:27-04:00",
     "title": "Account Executive, Enterprise",
     "company": "braze",
     "ats": "greenhouse",
@@ -215760,7 +215760,7 @@
     "alerted": false
   },
   "greenhouse:braze:8021290": {
-    "updated_at": "2026-07-04T03:46:56-04:00",
+    "updated_at": "2026-07-14T13:38:23-04:00",
     "title": "Business Development Representative",
     "company": "braze",
     "ats": "greenhouse",
@@ -215944,7 +215944,7 @@
     "alerted": false
   },
   "greenhouse:braze:8000133": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:37:17-04:00",
     "title": "Proposal Writer",
     "company": "braze",
     "ats": "greenhouse",
@@ -215952,7 +215952,7 @@
     "alerted": false
   },
   "greenhouse:braze:8007347": {
-    "updated_at": "2026-07-14T04:13:25-04:00",
+    "updated_at": "2026-07-14T13:37:39-04:00",
     "title": "Partner Enablement Manager",
     "company": "braze",
     "ats": "greenhouse",
@@ -216728,7 +216728,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8012269": {
-    "updated_at": "2026-07-13T18:00:00-04:00",
+    "updated_at": "2026-07-14T13:33:50-04:00",
     "title": "Staff Software Engineer, DUE Experience",
     "company": "waymo",
     "ats": "greenhouse",
@@ -217200,7 +217200,7 @@
     "alerted": false
   },
   "greenhouse:braze:8027079": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:38:20-04:00",
     "title": "Emerging Enterprise Account Executive, Retail",
     "company": "braze",
     "ats": "greenhouse",
@@ -217208,7 +217208,7 @@
     "alerted": false
   },
   "greenhouse:braze:8027078": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:38:20-04:00",
     "title": "Emerging Enterprise Account Executive, Retail",
     "company": "braze",
     "ats": "greenhouse",
@@ -217216,7 +217216,7 @@
     "alerted": false
   },
   "greenhouse:braze:8027072": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:38:20-04:00",
     "title": "Emerging Enterprise Account Executive, Retail",
     "company": "braze",
     "ats": "greenhouse",
@@ -217224,7 +217224,7 @@
     "alerted": false
   },
   "greenhouse:braze:8017210": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:38:20-04:00",
     "title": "Emerging Enterprise Account Executive, Retail",
     "company": "braze",
     "ats": "greenhouse",
@@ -217616,7 +217616,7 @@
     "alerted": false
   },
   "greenhouse:purestorage:7989830": {
-    "updated_at": "2026-07-09T12:05:34-04:00",
+    "updated_at": "2026-07-14T14:30:00-04:00",
     "title": "Member of Technical Staff, Backend - Portworx",
     "company": "purestorage",
     "ats": "greenhouse",
@@ -217712,7 +217712,7 @@
     "alerted": false
   },
   "greenhouse:braze:8026505": {
-    "updated_at": "2026-07-09T15:46:36-04:00",
+    "updated_at": "2026-07-14T13:38:43-04:00",
     "title": "Business Development Representative",
     "company": "braze",
     "ats": "greenhouse",
@@ -217720,7 +217720,7 @@
     "alerted": false
   },
   "greenhouse:braze:8021977": {
-    "updated_at": "2026-07-09T15:46:36-04:00",
+    "updated_at": "2026-07-14T13:38:43-04:00",
     "title": "Business Development Representative",
     "company": "braze",
     "ats": "greenhouse",
@@ -218008,7 +218008,7 @@
     "alerted": false
   },
   "greenhouse:braze:8013154": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:37:51-04:00",
     "title": "Account Manager, Commercial",
     "company": "braze",
     "ats": "greenhouse",
@@ -218400,7 +218400,7 @@
     "alerted": false
   },
   "greenhouse:braze:8026090": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:38:55-04:00",
     "title": "Account Executive, SMB",
     "company": "braze",
     "ats": "greenhouse",
@@ -218432,7 +218432,7 @@
     "alerted": false
   },
   "greenhouse:braze:8027699": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:38:38-04:00",
     "title": "Account Executive, Scale",
     "company": "braze",
     "ats": "greenhouse",
@@ -218656,7 +218656,7 @@
     "alerted": false
   },
   "greenhouse:braze:8013433": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:38:10-04:00",
     "title": "Account Executive, Emerging Enterprise",
     "company": "braze",
     "ats": "greenhouse",
@@ -218664,7 +218664,7 @@
     "alerted": false
   },
   "greenhouse:braze:8013411": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:38:10-04:00",
     "title": "Account Executive, Emerging Enterprise",
     "company": "braze",
     "ats": "greenhouse",
@@ -218672,7 +218672,7 @@
     "alerted": false
   },
   "greenhouse:braze:8013410": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:38:10-04:00",
     "title": "Account Executive, Emerging Enterprise",
     "company": "braze",
     "ats": "greenhouse",
@@ -218680,7 +218680,7 @@
     "alerted": false
   },
   "greenhouse:braze:8013294": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:38:10-04:00",
     "title": "Account Executive, Emerging Enterprise",
     "company": "braze",
     "ats": "greenhouse",
@@ -219488,7 +219488,7 @@
     "alerted": false
   },
   "greenhouse:braze:8027914": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:38:40-04:00",
     "title": "Account Manager, Enterprise",
     "company": "braze",
     "ats": "greenhouse",
@@ -220120,7 +220120,7 @@
     "alerted": false
   },
   "greenhouse:braze:8000775": {
-    "updated_at": "2026-07-09T13:11:42-04:00",
+    "updated_at": "2026-07-14T13:37:33-04:00",
     "title": "Senior Technical Product Manager, Content Platforms (AI Content Operations)",
     "company": "braze",
     "ats": "greenhouse",
@@ -220128,7 +220128,7 @@
     "alerted": false
   },
   "greenhouse:braze:8027701": {
-    "updated_at": "2026-07-09T16:16:42-04:00",
+    "updated_at": "2026-07-14T13:39:03-04:00",
     "title": "Senior Technical Product Manager, Content Platforms (Localization)",
     "company": "braze",
     "ats": "greenhouse",
@@ -220232,7 +220232,7 @@
     "alerted": false
   },
   "greenhouse:twitch:8607049002": {
-    "updated_at": "2026-06-25T16:50:24-04:00",
+    "updated_at": "2026-07-14T14:27:25-04:00",
     "title": "Contracts Manager",
     "company": "twitch",
     "ats": "greenhouse",
@@ -220248,7 +220248,7 @@
     "alerted": false
   },
   "greenhouse:twitch:8609435002": {
-    "updated_at": "2026-06-25T16:49:57-04:00",
+    "updated_at": "2026-07-14T14:27:39-04:00",
     "title": "Contracts Manager",
     "company": "twitch",
     "ats": "greenhouse",
@@ -220256,7 +220256,7 @@
     "alerted": false
   },
   "greenhouse:twitch:8609436002": {
-    "updated_at": "2026-06-25T16:49:57-04:00",
+    "updated_at": "2026-07-14T14:27:50-04:00",
     "title": "Contracts Manager",
     "company": "twitch",
     "ats": "greenhouse",
@@ -220896,7 +220896,7 @@
     "alerted": false
   },
   "greenhouse:braze:8024915": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:38:46-04:00",
     "title": "Recruiter II (fixed term)",
     "company": "braze",
     "ats": "greenhouse",
@@ -223592,7 +223592,7 @@
     "alerted": false
   },
   "greenhouse:braze:7995162": {
-    "updated_at": "2026-07-07T09:04:55-04:00",
+    "updated_at": "2026-07-14T13:36:51-04:00",
     "title": "Account Executive, Enterprise",
     "company": "braze",
     "ats": "greenhouse",
@@ -223680,7 +223680,7 @@
     "alerted": false
   },
   "greenhouse:braze:8031535": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:38:32-04:00",
     "title": "Manager, Services Consulting",
     "company": "braze",
     "ats": "greenhouse",
@@ -223688,7 +223688,7 @@
     "alerted": false
   },
   "greenhouse:braze:8026991": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:38:32-04:00",
     "title": "Manager, Services Consulting",
     "company": "braze",
     "ats": "greenhouse",
@@ -223696,7 +223696,7 @@
     "alerted": false
   },
   "greenhouse:braze:8031544": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:38:32-04:00",
     "title": "Manager, Services Consulting",
     "company": "braze",
     "ats": "greenhouse",
@@ -223704,7 +223704,7 @@
     "alerted": false
   },
   "greenhouse:braze:8031547": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:38:32-04:00",
     "title": "Manager, Services Consulting",
     "company": "braze",
     "ats": "greenhouse",
@@ -223888,7 +223888,7 @@
     "alerted": false
   },
   "greenhouse:braze:8030174": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:39:10-04:00",
     "title": "BDR Enablement Manager",
     "company": "braze",
     "ats": "greenhouse",
@@ -225160,7 +225160,7 @@
     "alerted": false
   },
   "greenhouse:braze:8024690": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:38:27-04:00",
     "title": "Applied AI Architect",
     "company": "braze",
     "ats": "greenhouse",
@@ -225168,7 +225168,7 @@
     "alerted": false
   },
   "greenhouse:braze:8029319": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:38:27-04:00",
     "title": "Applied AI Architect",
     "company": "braze",
     "ats": "greenhouse",
@@ -225248,7 +225248,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7787915003": {
-    "updated_at": "2026-07-11T01:05:17-04:00",
+    "updated_at": "2026-07-14T13:31:29-04:00",
     "title": "Staff Software Engineer",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -226376,7 +226376,7 @@
     "alerted": false
   },
   "greenhouse:braze:8013208": {
-    "updated_at": "2026-07-01T13:04:54-04:00",
+    "updated_at": "2026-07-14T13:38:02-04:00",
     "title": "Account Executive, Scale",
     "company": "braze",
     "ats": "greenhouse",
@@ -226888,7 +226888,7 @@
     "alerted": false
   },
   "greenhouse:braze:8039620": {
-    "updated_at": "2026-07-01T13:22:02-04:00",
+    "updated_at": "2026-07-14T13:39:34-04:00",
     "title": "Account Executive, Scale",
     "company": "braze",
     "ats": "greenhouse",
@@ -226896,7 +226896,7 @@
     "alerted": false
   },
   "greenhouse:braze:8039118": {
-    "updated_at": "2026-07-01T13:22:02-04:00",
+    "updated_at": "2026-07-14T13:39:34-04:00",
     "title": "Account Executive, Scale",
     "company": "braze",
     "ats": "greenhouse",
@@ -227832,7 +227832,7 @@
     "alerted": false
   },
   "greenhouse:chime:8607191002": {
-    "updated_at": "2026-07-01T19:14:37-04:00",
+    "updated_at": "2026-07-14T14:16:39-04:00",
     "title": "Staff Engineer, Growth",
     "company": "chime",
     "ats": "greenhouse",
@@ -227864,7 +227864,7 @@
     "alerted": false
   },
   "greenhouse:braze:8040133": {
-    "updated_at": "2026-07-03T00:19:23-04:00",
+    "updated_at": "2026-07-14T13:39:23-04:00",
     "title": "Business Development Representative",
     "company": "braze",
     "ats": "greenhouse",
@@ -228168,7 +228168,7 @@
     "alerted": false
   },
   "greenhouse:braze:8039381": {
-    "updated_at": "2026-07-01T16:27:18-04:00",
+    "updated_at": "2026-07-14T14:38:38-04:00",
     "title": "Senior Platform Software Engineer II",
     "company": "braze",
     "ats": "greenhouse",
@@ -228544,7 +228544,7 @@
     "alerted": false
   },
   "greenhouse:braze:8030572": {
-    "updated_at": "2026-07-01T15:30:41-04:00",
+    "updated_at": "2026-07-14T13:39:12-04:00",
     "title": "Senior Software Engineer II, Cloud Data Ingestion & Transformation",
     "company": "braze",
     "ats": "greenhouse",
@@ -228848,7 +228848,7 @@
     "alerted": false
   },
   "greenhouse:braze:8039627": {
-    "updated_at": "2026-07-01T13:22:04-04:00",
+    "updated_at": "2026-07-14T13:39:34-04:00",
     "title": "Account Executive, Scale",
     "company": "braze",
     "ats": "greenhouse",
@@ -228856,7 +228856,7 @@
     "alerted": false
   },
   "greenhouse:braze:8039626": {
-    "updated_at": "2026-07-01T13:22:03-04:00",
+    "updated_at": "2026-07-14T13:39:34-04:00",
     "title": "Account Executive, Scale",
     "company": "braze",
     "ats": "greenhouse",
@@ -229056,7 +229056,7 @@
     "alerted": false
   },
   "greenhouse:braze:8034867": {
-    "updated_at": "2026-07-02T04:31:06-04:00",
+    "updated_at": "2026-07-14T13:39:15-04:00",
     "title": "Communications Manager",
     "company": "braze",
     "ats": "greenhouse",
@@ -229168,7 +229168,7 @@
     "alerted": false
   },
   "greenhouse:braze:8039467": {
-    "updated_at": "2026-07-03T11:00:32-04:00",
+    "updated_at": "2026-07-14T13:39:37-04:00",
     "title": "Executive Assistant, Technology Services",
     "company": "braze",
     "ats": "greenhouse",
@@ -229752,7 +229752,7 @@
     "alerted": false
   },
   "greenhouse:braze:8013477": {
-    "updated_at": "2026-07-07T12:37:13-04:00",
+    "updated_at": "2026-07-14T13:37:54-04:00",
     "title": "Senior Global Event Marketing Manager",
     "company": "braze",
     "ats": "greenhouse",
@@ -229792,7 +229792,7 @@
     "alerted": false
   },
   "greenhouse:braze:8044123": {
-    "updated_at": "2026-07-02T13:20:52-04:00",
+    "updated_at": "2026-07-14T13:38:27-04:00",
     "title": "Applied AI Architect",
     "company": "braze",
     "ats": "greenhouse",
@@ -229800,7 +229800,7 @@
     "alerted": false
   },
   "greenhouse:braze:8044130": {
-    "updated_at": "2026-07-02T13:20:52-04:00",
+    "updated_at": "2026-07-14T13:38:27-04:00",
     "title": "Applied AI Architect",
     "company": "braze",
     "ats": "greenhouse",
@@ -230088,7 +230088,7 @@
     "alerted": false
   },
   "greenhouse:braze:8025693": {
-    "updated_at": "2026-07-08T06:53:23-04:00",
+    "updated_at": "2026-07-14T13:38:52-04:00",
     "title": "Senior Account Executive, Scale",
     "company": "braze",
     "ats": "greenhouse",
@@ -231256,7 +231256,7 @@
     "alerted": false
   },
   "greenhouse:carta:7801628003": {
-    "updated_at": "2026-07-13T13:48:18-04:00",
+    "updated_at": "2026-07-14T13:46:40-04:00",
     "title": "Senior Associate Lawyer",
     "company": "carta",
     "ats": "greenhouse",
@@ -231264,8 +231264,8 @@
     "alerted": false
   },
   "greenhouse:carta:7788815003": {
-    "updated_at": "2026-07-13T13:48:05-04:00",
-    "title": "Contract Solutions Counsel",
+    "updated_at": "2026-07-14T13:48:00-04:00",
+    "title": "Counsel",
     "company": "carta",
     "ats": "greenhouse",
     "source_slug": "carta",
@@ -231864,7 +231864,7 @@
     "alerted": false
   },
   "greenhouse:braze:8055716": {
-    "updated_at": "2026-07-10T14:23:28-04:00",
+    "updated_at": "2026-07-14T13:38:07-04:00",
     "title": "Forward Deployed AI Accelerator",
     "company": "braze",
     "ats": "greenhouse",
@@ -231872,7 +231872,7 @@
     "alerted": false
   },
   "greenhouse:braze:8055714": {
-    "updated_at": "2026-07-10T14:23:27-04:00",
+    "updated_at": "2026-07-14T13:38:07-04:00",
     "title": "Forward Deployed AI Accelerator",
     "company": "braze",
     "ats": "greenhouse",
@@ -232056,7 +232056,7 @@
     "alerted": false
   },
   "greenhouse:braze:8039735": {
-    "updated_at": "2026-07-10T12:38:52-04:00",
+    "updated_at": "2026-07-14T13:39:20-04:00",
     "title": "Senior Lead Field Architect",
     "company": "braze",
     "ats": "greenhouse",
@@ -232064,7 +232064,7 @@
     "alerted": false
   },
   "greenhouse:braze:8039731": {
-    "updated_at": "2026-07-10T12:38:51-04:00",
+    "updated_at": "2026-07-14T13:39:20-04:00",
     "title": "Senior Lead Field Architect",
     "company": "braze",
     "ats": "greenhouse",
@@ -232072,7 +232072,7 @@
     "alerted": false
   },
   "greenhouse:braze:8039727": {
-    "updated_at": "2026-07-10T12:38:51-04:00",
+    "updated_at": "2026-07-14T13:39:20-04:00",
     "title": "Senior Lead Field Architect",
     "company": "braze",
     "ats": "greenhouse",
@@ -232080,7 +232080,7 @@
     "alerted": false
   },
   "greenhouse:braze:8039383": {
-    "updated_at": "2026-07-10T12:38:50-04:00",
+    "updated_at": "2026-07-14T13:39:20-04:00",
     "title": "Senior Lead Field Architect",
     "company": "braze",
     "ats": "greenhouse",
@@ -232464,7 +232464,7 @@
     "alerted": false
   },
   "greenhouse:braze:8048689": {
-    "updated_at": "2026-07-10T10:52:08-04:00",
+    "updated_at": "2026-07-14T13:39:51-04:00",
     "title": "Senior Sales Director, Enterprise",
     "company": "braze",
     "ats": "greenhouse",
@@ -233568,7 +233568,7 @@
     "alerted": false
   },
   "greenhouse:flexport:7992009": {
-    "updated_at": "2026-07-09T19:28:21-04:00",
+    "updated_at": "2026-07-14T13:28:55-04:00",
     "title": "Senior Payroll Associate",
     "company": "flexport",
     "ats": "greenhouse",
@@ -233608,8 +233608,8 @@
     "alerted": false
   },
   "greenhouse:gusto:8039570": {
-    "updated_at": "2026-07-09T19:27:49-04:00",
-    "title": "IT Applications Support Analyst - Order to Cash",
+    "updated_at": "2026-07-14T13:48:42-04:00",
+    "title": "Financial Systems Analyst",
     "company": "gusto",
     "ats": "greenhouse",
     "source_slug": "gusto",
@@ -235648,7 +235648,7 @@
     "alerted": false
   },
   "greenhouse:braze:8052486": {
-    "updated_at": "2026-07-09T11:01:53-04:00",
+    "updated_at": "2026-07-14T13:39:44-04:00",
     "title": "Senior Product Marketing Manager, Orchestration",
     "company": "braze",
     "ats": "greenhouse",
@@ -235656,7 +235656,7 @@
     "alerted": false
   },
   "greenhouse:braze:8052484": {
-    "updated_at": "2026-07-09T11:01:20-04:00",
+    "updated_at": "2026-07-14T13:39:44-04:00",
     "title": "Senior Product Marketing Manager, Orchestration",
     "company": "braze",
     "ats": "greenhouse",
@@ -235664,7 +235664,7 @@
     "alerted": false
   },
   "greenhouse:braze:8052481": {
-    "updated_at": "2026-07-09T11:01:19-04:00",
+    "updated_at": "2026-07-14T13:39:44-04:00",
     "title": "Senior Product Marketing Manager, Orchestration",
     "company": "braze",
     "ats": "greenhouse",
@@ -235672,7 +235672,7 @@
     "alerted": false
   },
   "greenhouse:braze:8052239": {
-    "updated_at": "2026-07-09T11:01:18-04:00",
+    "updated_at": "2026-07-14T13:39:44-04:00",
     "title": "Senior Product Marketing Manager, Orchestration",
     "company": "braze",
     "ats": "greenhouse",
@@ -238360,7 +238360,7 @@
     "alerted": false
   },
   "greenhouse:braze:8028504": {
-    "updated_at": "2026-07-07T16:40:59-04:00",
+    "updated_at": "2026-07-14T13:39:05-04:00",
     "title": "Senior Software Engineer I, ML",
     "company": "braze",
     "ats": "greenhouse",
@@ -238472,7 +238472,7 @@
     "alerted": false
   },
   "greenhouse:braze:8049451": {
-    "updated_at": "2026-07-07T15:31:37-04:00",
+    "updated_at": "2026-07-14T13:37:48-04:00",
     "title": "Industry Marketing Lead, Media, Entertainment, Sports & Gaming",
     "company": "braze",
     "ats": "greenhouse",
@@ -238480,7 +238480,7 @@
     "alerted": false
   },
   "greenhouse:braze:8011124": {
-    "updated_at": "2026-07-07T15:31:22-04:00",
+    "updated_at": "2026-07-14T13:37:48-04:00",
     "title": "Industry Marketing Lead, Media, Entertainment, Sports & Gaming",
     "company": "braze",
     "ats": "greenhouse",
@@ -238488,7 +238488,7 @@
     "alerted": false
   },
   "greenhouse:braze:8049454": {
-    "updated_at": "2026-07-07T15:30:51-04:00",
+    "updated_at": "2026-07-14T13:37:48-04:00",
     "title": "Industry Marketing Lead, Media, Entertainment, Sports & Gaming",
     "company": "braze",
     "ats": "greenhouse",
@@ -238968,7 +238968,7 @@
     "alerted": false
   },
   "greenhouse:braze:8013239": {
-    "updated_at": "2026-07-07T12:30:03-04:00",
+    "updated_at": "2026-07-14T13:38:07-04:00",
     "title": "Forward Deployed AI Accelerator",
     "company": "braze",
     "ats": "greenhouse",
@@ -239112,7 +239112,7 @@
     "alerted": false
   },
   "greenhouse:braze:8027184": {
-    "updated_at": "2026-07-07T10:43:59-04:00",
+    "updated_at": "2026-07-14T13:38:35-04:00",
     "title": "Senior Software Engineer I, Reporting",
     "company": "braze",
     "ats": "greenhouse",
@@ -240160,7 +240160,7 @@
     "alerted": false
   },
   "greenhouse:braze:8045174": {
-    "updated_at": "2026-07-06T05:10:49-04:00",
+    "updated_at": "2026-07-14T13:39:28-04:00",
     "title": "Field Marketing Lead (12 Month Fixed Term)",
     "company": "braze",
     "ats": "greenhouse",
@@ -240624,7 +240624,7 @@
     "alerted": false
   },
   "greenhouse:braze:8002284": {
-    "updated_at": "2026-07-12T06:32:28-04:00",
+    "updated_at": "2026-07-14T13:37:35-04:00",
     "title": "Account Executive, Commercial",
     "company": "braze",
     "ats": "greenhouse",
@@ -241296,7 +241296,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8621017002": {
-    "updated_at": "2026-07-13T20:50:22-04:00",
+    "updated_at": "2026-07-14T14:23:48-04:00",
     "title": "Senior Platform Engineer, Workday Extend & Integrations",
     "company": "lyft",
     "ats": "greenhouse",
@@ -242728,7 +242728,7 @@
     "alerted": false
   },
   "greenhouse:rubrik:8055087": {
-    "updated_at": "2026-07-13T10:26:31-04:00",
+    "updated_at": "2026-07-14T14:01:58-04:00",
     "title": "Director, Channel NEUR & SEUR",
     "company": "rubrik",
     "ats": "greenhouse",
@@ -243064,8 +243064,8 @@
     "alerted": false
   },
   "greenhouse:cloudflare:8059775": {
-    "updated_at": "2026-07-14T09:53:39-04:00",
-    "title": "Senior Customer Engagements Manager",
+    "updated_at": "2026-07-14T13:56:23-04:00",
+    "title": "Senior Customer Engagement Manager",
     "company": "cloudflare",
     "ats": "greenhouse",
     "source_slug": "cloudflare",
@@ -243392,7 +243392,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8060391": {
-    "updated_at": "2026-07-14T11:51:29-04:00",
+    "updated_at": "2026-07-14T14:37:45-04:00",
     "title": "Air Cleaning Technologies Associate",
     "company": "stripe",
     "ats": "greenhouse",
@@ -243613,6 +243613,270 @@
     "company": "leantaas",
     "ats": "lever",
     "source_slug": "leantaas",
+    "alerted": false
+  },
+  "greenhouse:sofi:7804714003": {
+    "updated_at": "2026-07-14T14:36:18-04:00",
+    "title": "Loan Funding Specialist",
+    "company": "sofi",
+    "ats": "greenhouse",
+    "source_slug": "sofi",
+    "alerted": false
+  },
+  "greenhouse:adyen:8064197": {
+    "updated_at": "2026-07-14T14:34:35-04:00",
+    "title": "Manager, Enterprise Account Management",
+    "company": "adyen",
+    "ats": "greenhouse",
+    "source_slug": "adyen",
+    "alerted": false
+  },
+  "greenhouse:adyen:8064195": {
+    "updated_at": "2026-07-14T14:34:33-04:00",
+    "title": "Manager, Platforms Account Management",
+    "company": "adyen",
+    "ats": "greenhouse",
+    "source_slug": "adyen",
+    "alerted": false
+  },
+  "greenhouse:adyen:8043989": {
+    "updated_at": "2026-07-14T14:34:32-04:00",
+    "title": "Team Lead, Account Management",
+    "company": "adyen",
+    "ats": "greenhouse",
+    "source_slug": "adyen",
+    "alerted": false
+  },
+  "greenhouse:tripadvisor:8064466": {
+    "updated_at": "2026-07-14T14:31:01-04:00",
+    "title": "Sr CRM Marketing Specialist",
+    "company": "tripadvisor",
+    "ats": "greenhouse",
+    "source_slug": "tripadvisor",
+    "alerted": false
+  },
+  "greenhouse:abnormalsecurity:7801737003": {
+    "updated_at": "2026-07-14T14:30:02-04:00",
+    "title": "Major Account Executive, Southwest",
+    "company": "abnormalsecurity",
+    "ats": "greenhouse",
+    "source_slug": "abnormalsecurity",
+    "alerted": false
+  },
+  "greenhouse:waymo:8064716": {
+    "updated_at": "2026-07-14T14:28:00-04:00",
+    "title": "Staff Machine Learning Engineer (TLM), Driver Understanding and Evaluation",
+    "company": "waymo",
+    "ats": "greenhouse",
+    "source_slug": "waymo",
+    "alerted": false
+  },
+  "greenhouse:lyft:8630916002": {
+    "updated_at": "2026-07-14T14:26:52-04:00",
+    "title": "Finance Transformation Specialist",
+    "company": "lyft",
+    "ats": "greenhouse",
+    "source_slug": "lyft",
+    "alerted": false
+  },
+  "greenhouse:twilio:7434770": {
+    "updated_at": "2026-07-14T14:25:57-04:00",
+    "title": "Software Engineer L2 - Cloud Infrastructure",
+    "company": "twilio",
+    "ats": "greenhouse",
+    "source_slug": "twilio",
+    "alerted": false
+  },
+  "greenhouse:sofi:7803207003": {
+    "updated_at": "2026-07-14T14:18:53-04:00",
+    "title": "Senior Product Manager, Operations",
+    "company": "sofi",
+    "ats": "greenhouse",
+    "source_slug": "sofi",
+    "alerted": false
+  },
+  "greenhouse:expel:8628004002": {
+    "updated_at": "2026-07-14T14:17:46-04:00",
+    "title": "Customer Success Manager, Scale",
+    "company": "expel",
+    "ats": "greenhouse",
+    "source_slug": "expel",
+    "alerted": false
+  },
+  "greenhouse:expel:8628011002": {
+    "updated_at": "2026-07-14T14:17:39-04:00",
+    "title": "Associate Customer Success Manager, Scale",
+    "company": "expel",
+    "ats": "greenhouse",
+    "source_slug": "expel",
+    "alerted": false
+  },
+  "greenhouse:chime:8625622002": {
+    "updated_at": "2026-07-14T14:16:42-04:00",
+    "title": "Engineering Manager, AI & App Experience",
+    "company": "chime",
+    "ats": "greenhouse",
+    "source_slug": "chime",
+    "alerted": false
+  },
+  "greenhouse:chime:8618419002": {
+    "updated_at": "2026-07-14T14:16:40-04:00",
+    "title": "Staff Software Engineer, AI & App Experience",
+    "company": "chime",
+    "ats": "greenhouse",
+    "source_slug": "chime",
+    "alerted": false
+  },
+  "greenhouse:chime:8623009002": {
+    "updated_at": "2026-07-14T14:11:43-04:00",
+    "title": "Senior Analyst, Financial Crimes & Identity Quality",
+    "company": "chime",
+    "ats": "greenhouse",
+    "source_slug": "chime",
+    "alerted": false
+  },
+  "greenhouse:toast:8053761": {
+    "updated_at": "2026-07-14T14:11:09-04:00",
+    "title": "Territory Account Executive, Retail - Kansas City East",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:okta:8060786": {
+    "updated_at": "2026-07-14T14:10:24-04:00",
+    "title": "Principal Solutions Engineer",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:datadog:8064898": {
+    "updated_at": "2026-07-14T14:10:06-04:00",
+    "title": "Product Manager II - Developer Engagement",
+    "company": "datadog",
+    "ats": "greenhouse",
+    "source_slug": "datadog",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8054581": {
+    "updated_at": "2026-07-14T14:01:01-04:00",
+    "title": "Territory Account Executive - SLED",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:hightouch:6115700004": {
+    "updated_at": "2026-07-14T14:00:21-04:00",
+    "title": "GTM Recruiter",
+    "company": "hightouch",
+    "ats": "greenhouse",
+    "source_slug": "hightouch",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8054573": {
+    "updated_at": "2026-07-14T13:59:56-04:00",
+    "title": "Territory Account Executive - SLED - California",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:mongodb:8060800": {
+    "updated_at": "2026-07-14T13:56:31-04:00",
+    "title": "Customer Success Manager",
+    "company": "mongodb",
+    "ats": "greenhouse",
+    "source_slug": "mongodb",
+    "alerted": false
+  },
+  "greenhouse:convera:4907174101": {
+    "updated_at": "2026-07-14T13:52:35-04:00",
+    "title": "Lead Learning Specialist \u2013 London",
+    "company": "convera",
+    "ats": "greenhouse",
+    "source_slug": "convera",
+    "alerted": false
+  },
+  "greenhouse:toast:8048663": {
+    "updated_at": "2026-07-14T13:52:00-04:00",
+    "title": "Staff Analytics Engineer",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:klaviyo:7798763003": {
+    "updated_at": "2026-07-14T13:43:33-04:00",
+    "title": "Product Manager, Checkout Experience",
+    "company": "klaviyo",
+    "ats": "greenhouse",
+    "source_slug": "klaviyo",
+    "alerted": false
+  },
+  "greenhouse:purestorage:8027319": {
+    "updated_at": "2026-07-14T13:39:42-04:00",
+    "title": "Technical Design Architect - Data Management",
+    "company": "purestorage",
+    "ats": "greenhouse",
+    "source_slug": "purestorage",
+    "alerted": false
+  },
+  "greenhouse:spacex:8453339002": {
+    "updated_at": "2026-07-14T13:38:26-04:00",
+    "title": "CNC Machinist, Deburr (Raptor)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:rubrik:8052077": {
+    "updated_at": "2026-07-14T13:37:38-04:00",
+    "title": "Executive Assistant",
+    "company": "rubrik",
+    "ats": "greenhouse",
+    "source_slug": "rubrik",
+    "alerted": false
+  },
+  "greenhouse:coinbase:8064692": {
+    "updated_at": "2026-07-14T13:32:12-04:00",
+    "title": "Compliance, Threat & Risk Assessment Manager",
+    "company": "coinbase",
+    "ats": "greenhouse",
+    "source_slug": "coinbase",
+    "alerted": false
+  },
+  "greenhouse:toast:8064901": {
+    "updated_at": "2026-07-14T13:27:11-04:00",
+    "title": "Retail Account Executive - LA: Long Beach",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:toast:8064899": {
+    "updated_at": "2026-07-14T13:27:10-04:00",
+    "title": "Retail Account Executive - LA: Long Beach",
+    "company": "toast",
+    "ats": "greenhouse",
+    "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:stripe:8064900": {
+    "updated_at": "2026-07-14T13:26:56-04:00",
+    "title": "Product Manager, Cash Platform",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:twilio:8052885": {
+    "updated_at": "2026-07-14T13:21:58-04:00",
+    "title": "Presales Architect",
+    "company": "twilio",
+    "ats": "greenhouse",
+    "source_slug": "twilio",
     "alerted": false
   }
 }
