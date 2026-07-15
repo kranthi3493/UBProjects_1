@@ -16200,8 +16200,8 @@
     "alerted": true
   },
   "greenhouse:upstart:7370621": {
-    "updated_at": "2026-07-10T00:10:52-04:00",
-    "title": "Staff+ Machine Learning Engineer",
+    "updated_at": "2026-07-15T07:14:36-04:00",
+    "title": "Staff/Principal Machine Learning Engineer",
     "company": "upstart",
     "ats": "greenhouse",
     "source_slug": "upstart",
@@ -45464,7 +45464,7 @@
     "alerted": false
   },
   "greenhouse:stripe:7664667": {
-    "updated_at": "2026-06-26T17:05:33-04:00",
+    "updated_at": "2026-07-15T07:01:03-04:00",
     "title": "Manager, Technical Account Management",
     "company": "stripe",
     "ats": "greenhouse",
@@ -76384,7 +76384,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7388900": {
-    "updated_at": "2026-07-06T12:17:28-04:00",
+    "updated_at": "2026-07-15T07:03:27-04:00",
     "title": "Senior Product Manager, AI Builders Experience",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -76392,7 +76392,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7378931": {
-    "updated_at": "2026-07-06T12:17:28-04:00",
+    "updated_at": "2026-07-15T07:03:13-04:00",
     "title": "Senior Product Manager, AI Builders Experience",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -76464,7 +76464,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7581876": {
-    "updated_at": "2026-07-06T12:17:28-04:00",
+    "updated_at": "2026-07-15T06:59:48-04:00",
     "title": "Software Engineer 3",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -76544,7 +76544,7 @@
     "alerted": false
   },
   "greenhouse:mongodb:7392902": {
-    "updated_at": "2026-07-06T12:17:28-04:00",
+    "updated_at": "2026-07-15T07:05:39-04:00",
     "title": "Senior Software Engineer, Forward Deployed AI Engineer",
     "company": "mongodb",
     "ats": "greenhouse",
@@ -156456,7 +156456,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8546367002": {
-    "updated_at": "2026-06-01T10:20:48-04:00",
+    "updated_at": "2026-07-15T07:34:33-04:00",
     "title": "AI Engineer - FDE (Forward Deployed Engineer)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -160320,7 +160320,7 @@
     "alerted": false
   },
   "greenhouse:okta:7929542": {
-    "updated_at": "2026-07-13T16:17:08-04:00",
+    "updated_at": "2026-07-15T07:19:32-04:00",
     "title": "Staff Fullstack Engineer",
     "company": "okta",
     "ats": "greenhouse",
@@ -213808,7 +213808,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8600818002": {
-    "updated_at": "2026-07-10T12:16:54-04:00",
+    "updated_at": "2026-07-15T07:04:51-04:00",
     "title": "Senior Specialist Solutions Engineer (AI/ML)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -227448,7 +227448,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:8039417": {
-    "updated_at": "2026-07-01T10:34:45-04:00",
+    "updated_at": "2026-07-15T07:20:39-04:00",
     "title": "Office Manager, Paris",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -227480,7 +227480,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:8039399": {
-    "updated_at": "2026-07-01T10:34:25-04:00",
+    "updated_at": "2026-07-15T07:20:17-04:00",
     "title": "Office Manager, London",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -227504,7 +227504,7 @@
     "alerted": false
   },
   "greenhouse:airbnb:8039365": {
-    "updated_at": "2026-07-01T10:34:13-04:00",
+    "updated_at": "2026-07-15T07:19:59-04:00",
     "title": "Office Manager, Berlin",
     "company": "airbnb",
     "ats": "greenhouse",
@@ -237760,7 +237760,7 @@
     "alerted": false
   },
   "greenhouse:okta:7930018": {
-    "updated_at": "2026-07-13T16:17:08-04:00",
+    "updated_at": "2026-07-15T07:18:52-04:00",
     "title": "Staff Software Engineer - Linux Platform Foundations",
     "company": "okta",
     "ats": "greenhouse",
@@ -243624,7 +243624,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064197": {
-    "updated_at": "2026-07-15T06:49:17-04:00",
+    "updated_at": "2026-07-15T08:19:12-04:00",
     "title": "Manager, Enterprise Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243632,7 +243632,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8064195": {
-    "updated_at": "2026-07-15T06:49:16-04:00",
+    "updated_at": "2026-07-15T08:19:10-04:00",
     "title": "Manager, Platforms Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -243640,7 +243640,7 @@
     "alerted": false
   },
   "greenhouse:adyen:8043989": {
-    "updated_at": "2026-07-15T06:49:09-04:00",
+    "updated_at": "2026-07-15T08:19:09-04:00",
     "title": "Team Lead, Account Management",
     "company": "adyen",
     "ats": "greenhouse",
@@ -244008,7 +244008,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5278232008": {
-    "updated_at": "2026-07-14T15:09:35-04:00",
+    "updated_at": "2026-07-15T08:05:06-04:00",
     "title": "Global Head of Sales & Partner Enablement",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -244928,7 +244928,7 @@
     "alerted": false
   },
   "greenhouse:okta:7980649": {
-    "updated_at": "2026-07-14T18:32:38-04:00",
+    "updated_at": "2026-07-15T07:31:40-04:00",
     "title": "Principal Forward Deployed Engineer",
     "company": "okta",
     "ats": "greenhouse",
@@ -245176,7 +245176,7 @@
     "alerted": false
   },
   "greenhouse:okta:7902410": {
-    "updated_at": "2026-07-15T03:49:27-04:00",
+    "updated_at": "2026-07-15T07:20:17-04:00",
     "title": "Staff UI Software Engineer",
     "company": "okta",
     "ats": "greenhouse",
@@ -245349,6 +245349,54 @@
     "company": "toast",
     "ats": "greenhouse",
     "source_slug": "toast",
+    "alerted": false
+  },
+  "greenhouse:elastic:8064782": {
+    "updated_at": "2026-07-15T07:40:53-04:00",
+    "title": "Platform Security - Site Reliability Engineer II",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:airbnb:8066760": {
+    "updated_at": "2026-07-15T07:22:48-04:00",
+    "title": "Recruiter, EMEA",
+    "company": "airbnb",
+    "ats": "greenhouse",
+    "source_slug": "airbnb",
+    "alerted": false
+  },
+  "greenhouse:stripe:8041655": {
+    "updated_at": "2026-07-15T07:01:45-04:00",
+    "title": "Product Manager, E-Invoicing",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:okta:8007704": {
+    "updated_at": "2026-07-15T06:58:41-04:00",
+    "title": "Sales Development Representative - UK&I",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:cloudflare:8064055": {
+    "updated_at": "2026-07-15T06:50:31-04:00",
+    "title": "Insider Threat Engineer",
+    "company": "cloudflare",
+    "ats": "greenhouse",
+    "source_slug": "cloudflare",
+    "alerted": false
+  },
+  "greenhouse:mongodb:7996557": {
+    "updated_at": "2026-07-15T06:42:00-04:00",
+    "title": "Engagement Manager",
+    "company": "mongodb",
+    "ats": "greenhouse",
+    "source_slug": "mongodb",
     "alerted": false
   }
 }
