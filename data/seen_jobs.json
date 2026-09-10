@@ -8376,7 +8376,7 @@
     "alerted": true
   },
   "greenhouse:adyen:7255277": {
-    "updated_at": "2026-08-25T15:48:56-04:00",
+    "updated_at": "2026-09-09T18:28:01-04:00",
     "title": "Engineering Manager, Capital",
     "company": "adyen",
     "ats": "greenhouse",
@@ -8800,7 +8800,7 @@
     "alerted": true
   },
   "greenhouse:brex:8475632002": {
-    "updated_at": "2026-07-31T10:52:59-04:00",
+    "updated_at": "2026-09-09T18:59:15-04:00",
     "title": "Manager, Sales Development",
     "company": "brex",
     "ats": "greenhouse",
@@ -8808,7 +8808,7 @@
     "alerted": true
   },
   "greenhouse:brex:8477508002": {
-    "updated_at": "2026-07-31T10:52:35-04:00",
+    "updated_at": "2026-09-09T18:59:15-04:00",
     "title": "Manager, Sales Development",
     "company": "brex",
     "ats": "greenhouse",
@@ -8816,7 +8816,7 @@
     "alerted": true
   },
   "greenhouse:brex:8477485002": {
-    "updated_at": "2026-07-31T10:52:53-04:00",
+    "updated_at": "2026-09-09T18:59:15-04:00",
     "title": "Manager, Sales Development",
     "company": "brex",
     "ats": "greenhouse",
@@ -8824,7 +8824,7 @@
     "alerted": true
   },
   "greenhouse:brex:8477492002": {
-    "updated_at": "2026-07-31T10:52:47-04:00",
+    "updated_at": "2026-09-09T18:59:15-04:00",
     "title": "Manager, Sales Development",
     "company": "brex",
     "ats": "greenhouse",
@@ -10376,7 +10376,7 @@
     "alerted": true
   },
   "greenhouse:robinhood:7543003": {
-    "updated_at": "2026-09-01T22:30:42-04:00",
+    "updated_at": "2026-09-09T18:28:33-04:00",
     "title": "Web Engineer",
     "company": "robinhood",
     "ats": "greenhouse",
@@ -22376,7 +22376,7 @@
     "alerted": true
   },
   "greenhouse:gusto:7673980": {
-    "updated_at": "2026-09-03T16:57:40-04:00",
+    "updated_at": "2026-09-09T19:32:01-04:00",
     "title": "Principal Product Manager, Gusto Pro Workflows",
     "company": "gusto",
     "ats": "greenhouse",
@@ -23040,8 +23040,8 @@
     "alerted": true
   },
   "greenhouse:mongodb:7727920": {
-    "updated_at": "2026-09-01T03:40:27-04:00",
-    "title": "Site Reliability Engineering, Fabric (Mid, Senior, or Staff)",
+    "updated_at": "2026-09-09T19:29:22-04:00",
+    "title": "Senior Site Reliability Engineer, Fabric",
     "company": "mongodb",
     "ats": "greenhouse",
     "source_slug": "mongodb",
@@ -28056,8 +28056,8 @@
     "alerted": false
   },
   "greenhouse:purestorage:7681034": {
-    "updated_at": "2026-06-27T01:15:47-04:00",
-    "title": "Software Engineer",
+    "updated_at": "2026-09-09T18:05:56-04:00",
+    "title": "AI Software Engineer, Security",
     "company": "purestorage",
     "ats": "greenhouse",
     "source_slug": "purestorage",
@@ -36184,7 +36184,7 @@
     "alerted": false
   },
   "greenhouse:toast:7733118": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Principal Product Manager, Enterprise Change Management",
     "company": "toast",
     "ats": "greenhouse",
@@ -36208,7 +36208,7 @@
     "alerted": false
   },
   "greenhouse:toast:7550881": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Senior Software Engineer, Android",
     "company": "toast",
     "ats": "greenhouse",
@@ -36320,7 +36320,7 @@
     "alerted": false
   },
   "greenhouse:toast:7735338": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Staff Software Engineer, Android",
     "company": "toast",
     "ats": "greenhouse",
@@ -47768,7 +47768,7 @@
     "alerted": false
   },
   "greenhouse:toast:7822496": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - North Jacksonville, FL",
     "company": "toast",
     "ats": "greenhouse",
@@ -59784,7 +59784,7 @@
     "alerted": false
   },
   "greenhouse:toast:7826547": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Fort Worth",
     "company": "toast",
     "ats": "greenhouse",
@@ -59792,7 +59792,7 @@
     "alerted": false
   },
   "greenhouse:toast:7826544": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Fort Worth",
     "company": "toast",
     "ats": "greenhouse",
@@ -59800,7 +59800,7 @@
     "alerted": false
   },
   "greenhouse:toast:7826532": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Fort Worth",
     "company": "toast",
     "ats": "greenhouse",
@@ -59808,7 +59808,7 @@
     "alerted": false
   },
   "greenhouse:toast:7826529": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Fort Worth",
     "company": "toast",
     "ats": "greenhouse",
@@ -59832,7 +59832,7 @@
     "alerted": false
   },
   "greenhouse:toast:7815811": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Fort Worth",
     "company": "toast",
     "ats": "greenhouse",
@@ -62712,7 +62712,7 @@
     "alerted": false
   },
   "greenhouse:checkr:7808923": {
-    "updated_at": "2026-07-08T17:11:17-04:00",
+    "updated_at": "2026-09-09T18:18:26-04:00",
     "title": "Operations Outreach Specialist",
     "company": "checkr",
     "ats": "greenhouse",
@@ -65336,7 +65336,7 @@
     "alerted": false
   },
   "greenhouse:samsara:7702368": {
-    "updated_at": "2026-09-09T12:14:46-04:00",
+    "updated_at": "2026-09-09T20:02:20-04:00",
     "title": "Manager, Enterprise Customer Success - Select",
     "company": "samsara",
     "ats": "greenhouse",
@@ -69312,7 +69312,7 @@
     "alerted": false
   },
   "greenhouse:toast:7747181": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Staff Software Engineer, Tech Lead",
     "company": "toast",
     "ats": "greenhouse",
@@ -69544,7 +69544,7 @@
     "alerted": false
   },
   "greenhouse:toast:7731560": {
-    "updated_at": "2026-09-03T06:26:49-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Staff Software Engineer-Tech Lead",
     "company": "toast",
     "ats": "greenhouse",
@@ -77808,7 +77808,7 @@
     "alerted": false
   },
   "greenhouse:toast:7815240": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive , SMB - Lancaster, PA",
     "company": "toast",
     "ats": "greenhouse",
@@ -77816,7 +77816,7 @@
     "alerted": false
   },
   "greenhouse:toast:7815376": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive , SMB - Lancaster, PA",
     "company": "toast",
     "ats": "greenhouse",
@@ -80568,7 +80568,7 @@
     "alerted": false
   },
   "greenhouse:toast:7812884": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Loveland, CO",
     "company": "toast",
     "ats": "greenhouse",
@@ -80576,7 +80576,7 @@
     "alerted": false
   },
   "greenhouse:toast:7812883": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Greeley, CO",
     "company": "toast",
     "ats": "greenhouse",
@@ -80592,7 +80592,7 @@
     "alerted": false
   },
   "greenhouse:toast:7812881": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Cheyenne, WY",
     "company": "toast",
     "ats": "greenhouse",
@@ -82432,7 +82432,7 @@
     "alerted": false
   },
   "greenhouse:brex:8477507002": {
-    "updated_at": "2026-07-31T10:52:41-04:00",
+    "updated_at": "2026-09-09T18:59:15-04:00",
     "title": "Manager, Sales Development",
     "company": "brex",
     "ats": "greenhouse",
@@ -86424,7 +86424,7 @@
     "alerted": false
   },
   "greenhouse:toast:7587088": {
-    "updated_at": "2026-09-03T12:30:19-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Senior Software Engineer, Enterprise",
     "company": "toast",
     "ats": "greenhouse",
@@ -93568,7 +93568,7 @@
     "alerted": false
   },
   "greenhouse:toast:7773180": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Senior Software Engineer - Infrastructure",
     "company": "toast",
     "ats": "greenhouse",
@@ -93752,7 +93752,7 @@
     "alerted": false
   },
   "greenhouse:toast:7742525": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Staff Software Engineer, AI Agent",
     "company": "toast",
     "ats": "greenhouse",
@@ -95432,7 +95432,7 @@
     "alerted": false
   },
   "greenhouse:toast:7473660": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Columbus, GA",
     "company": "toast",
     "ats": "greenhouse",
@@ -95440,7 +95440,7 @@
     "alerted": false
   },
   "greenhouse:toast:7473217": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Montgomery, AL",
     "company": "toast",
     "ats": "greenhouse",
@@ -97992,7 +97992,7 @@
     "alerted": false
   },
   "greenhouse:toast:7658165": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Middlebury, VT",
     "company": "toast",
     "ats": "greenhouse",
@@ -98000,7 +98000,7 @@
     "alerted": false
   },
   "greenhouse:toast:7575004": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Burlington, VT",
     "company": "toast",
     "ats": "greenhouse",
@@ -99304,7 +99304,7 @@
     "alerted": false
   },
   "greenhouse:toast:7769055": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - South Texas (Spanish/Bilingual)",
     "company": "toast",
     "ats": "greenhouse",
@@ -99312,7 +99312,7 @@
     "alerted": false
   },
   "greenhouse:toast:7708046": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - South Texas (Spanish/Bilingual)",
     "company": "toast",
     "ats": "greenhouse",
@@ -99320,7 +99320,7 @@
     "alerted": false
   },
   "greenhouse:toast:7708045": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - South Texas (Spanish/Bilingual)",
     "company": "toast",
     "ats": "greenhouse",
@@ -99328,7 +99328,7 @@
     "alerted": false
   },
   "greenhouse:toast:7705800": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - South Texas (Spanish/Bilingual)",
     "company": "toast",
     "ats": "greenhouse",
@@ -99432,7 +99432,7 @@
     "alerted": false
   },
   "greenhouse:toast:7506371": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Seattle, WA",
     "company": "toast",
     "ats": "greenhouse",
@@ -99448,7 +99448,7 @@
     "alerted": false
   },
   "greenhouse:toast:7507105": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Bellevue, WA",
     "company": "toast",
     "ats": "greenhouse",
@@ -101992,7 +101992,7 @@
     "alerted": false
   },
   "greenhouse:toast:7736066": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Southwest St. Louis, MO",
     "company": "toast",
     "ats": "greenhouse",
@@ -102008,7 +102008,7 @@
     "alerted": false
   },
   "greenhouse:toast:7576807": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Fairfield/Bridgeport/Danbury",
     "company": "toast",
     "ats": "greenhouse",
@@ -102024,7 +102024,7 @@
     "alerted": false
   },
   "greenhouse:toast:7536201": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - New Haven, CT",
     "company": "toast",
     "ats": "greenhouse",
@@ -116120,8 +116120,8 @@
     "alerted": false
   },
   "greenhouse:airbnb:6852954": {
-    "updated_at": "2026-08-24T15:32:11-04:00",
-    "title": "Specialist, Premium Support",
+    "updated_at": "2026-09-09T18:12:19-04:00",
+    "title": "Support Specialist, Premium Support",
     "company": "airbnb",
     "ats": "greenhouse",
     "source_slug": "airbnb",
@@ -123248,7 +123248,7 @@
     "alerted": false
   },
   "greenhouse:toast:7843109": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Levittown, NY",
     "company": "toast",
     "ats": "greenhouse",
@@ -123256,7 +123256,7 @@
     "alerted": false
   },
   "greenhouse:toast:7838917": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Hempstead, NY",
     "company": "toast",
     "ats": "greenhouse",
@@ -123264,7 +123264,7 @@
     "alerted": false
   },
   "greenhouse:toast:7843098": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Garden City, NY",
     "company": "toast",
     "ats": "greenhouse",
@@ -123776,7 +123776,7 @@
     "alerted": false
   },
   "greenhouse:toast:7843767": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Sheepshead Bay, NY",
     "company": "toast",
     "ats": "greenhouse",
@@ -123784,7 +123784,7 @@
     "alerted": false
   },
   "greenhouse:toast:7838921": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Coney Island, NY",
     "company": "toast",
     "ats": "greenhouse",
@@ -123792,7 +123792,7 @@
     "alerted": false
   },
   "greenhouse:toast:7843764": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Brighton Beach, NY",
     "company": "toast",
     "ats": "greenhouse",
@@ -124992,7 +124992,7 @@
     "alerted": false
   },
   "greenhouse:toast:7842769": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Salt Lake City",
     "company": "toast",
     "ats": "greenhouse",
@@ -125080,7 +125080,7 @@
     "alerted": false
   },
   "greenhouse:toast:7846611": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Staff Software Engineer, Team Agent",
     "company": "toast",
     "ats": "greenhouse",
@@ -125864,7 +125864,7 @@
     "alerted": false
   },
   "greenhouse:toast:7843880": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Downers Grove, IL",
     "company": "toast",
     "ats": "greenhouse",
@@ -125872,7 +125872,7 @@
     "alerted": false
   },
   "greenhouse:toast:7838923": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Elmhurst, IL",
     "company": "toast",
     "ats": "greenhouse",
@@ -125880,7 +125880,7 @@
     "alerted": false
   },
   "greenhouse:toast:7843849": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Oak Brook, IL",
     "company": "toast",
     "ats": "greenhouse",
@@ -127448,7 +127448,7 @@
     "alerted": false
   },
   "greenhouse:toast:7845688": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Principal Software Engineer",
     "company": "toast",
     "ats": "greenhouse",
@@ -131280,7 +131280,7 @@
     "alerted": false
   },
   "greenhouse:toast:7838947": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Huntsville, AL",
     "company": "toast",
     "ats": "greenhouse",
@@ -135184,7 +135184,7 @@
     "alerted": false
   },
   "greenhouse:toast:7842808": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Bronx, NY",
     "company": "toast",
     "ats": "greenhouse",
@@ -135216,7 +135216,7 @@
     "alerted": false
   },
   "greenhouse:toast:7842772": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Queens, NY",
     "company": "toast",
     "ats": "greenhouse",
@@ -138864,8 +138864,8 @@
     "alerted": true
   },
   "greenhouse:airbnb:7870802": {
-    "updated_at": "2026-06-05T15:06:22-04:00",
-    "title": "Safety Specialist",
+    "updated_at": "2026-09-09T18:08:04-04:00",
+    "title": "Support Specialist, Safety",
     "company": "airbnb",
     "ats": "greenhouse",
     "source_slug": "airbnb",
@@ -140232,7 +140232,7 @@
     "alerted": false
   },
   "greenhouse:toast:7851543": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Territory Account Executive , Retail (Spanish) - San Antonio: West",
     "company": "toast",
     "ats": "greenhouse",
@@ -143304,7 +143304,7 @@
     "alerted": false
   },
   "greenhouse:toast:7795649": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Lead Salesforce Developer",
     "company": "toast",
     "ats": "greenhouse",
@@ -144072,8 +144072,8 @@
     "alerted": false
   },
   "greenhouse:airbnb:7417293": {
-    "updated_at": "2026-05-05T14:17:22-04:00",
-    "title": "Specialist, Safety",
+    "updated_at": "2026-09-09T18:38:31-04:00",
+    "title": "Support Specialist, Safety",
     "company": "airbnb",
     "ats": "greenhouse",
     "source_slug": "airbnb",
@@ -144384,7 +144384,7 @@
     "alerted": false
   },
   "greenhouse:toast:7888090": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Senior/Staff Software Engineer, Care Experience",
     "company": "toast",
     "ats": "greenhouse",
@@ -146056,7 +146056,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8463063002": {
-    "updated_at": "2026-09-02T00:21:53-04:00",
+    "updated_at": "2026-09-09T18:58:59-04:00",
     "title": "Deployment Strategist",
     "company": "databricks",
     "ats": "greenhouse",
@@ -146936,7 +146936,7 @@
     "alerted": false
   },
   "greenhouse:toast:7901920": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Fort Collins, CO",
     "company": "toast",
     "ats": "greenhouse",
@@ -149792,7 +149792,7 @@
     "alerted": false
   },
   "greenhouse:toast:7835829": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Principal Software Engineer - AI Foundations",
     "company": "toast",
     "ats": "greenhouse",
@@ -153328,7 +153328,7 @@
     "alerted": false
   },
   "greenhouse:checkr:7913718": {
-    "updated_at": "2026-07-08T17:11:17-04:00",
+    "updated_at": "2026-09-09T18:18:26-04:00",
     "title": "Chief of Staff",
     "company": "checkr",
     "ats": "greenhouse",
@@ -153904,7 +153904,7 @@
     "alerted": false
   },
   "greenhouse:toast:7861725": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Senior Software Engineer, Scheduling",
     "company": "toast",
     "ats": "greenhouse",
@@ -158744,7 +158744,7 @@
     "alerted": false
   },
   "greenhouse:toast:7870945": {
-    "updated_at": "2026-09-03T10:59:57-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Senior Software Engineer",
     "company": "toast",
     "ats": "greenhouse",
@@ -158760,7 +158760,7 @@
     "alerted": false
   },
   "greenhouse:toast:7926519": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Southwest St. Louis, MO",
     "company": "toast",
     "ats": "greenhouse",
@@ -165240,7 +165240,7 @@
     "alerted": false
   },
   "greenhouse:toast:7931146": {
-    "updated_at": "2026-09-08T11:53:26-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Hybrid Development Representative - Mandarin",
     "company": "toast",
     "ats": "greenhouse",
@@ -166648,8 +166648,8 @@
     "alerted": false
   },
   "greenhouse:airbnb:7946318": {
-    "updated_at": "2026-07-31T08:01:44-04:00",
-    "title": "Specialist, Premium Support (French/English)",
+    "updated_at": "2026-09-09T18:16:00-04:00",
+    "title": "Support Specialist, Premium Support",
     "company": "airbnb",
     "ats": "greenhouse",
     "source_slug": "airbnb",
@@ -166952,7 +166952,7 @@
     "alerted": false
   },
   "greenhouse:toast:7930749": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Sioux Falls",
     "company": "toast",
     "ats": "greenhouse",
@@ -167392,7 +167392,7 @@
     "alerted": false
   },
   "greenhouse:toast:7819344": {
-    "updated_at": "2026-09-08T14:33:00-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Senior Software Engineer (Fullstack), Digital Storefront",
     "company": "toast",
     "ats": "greenhouse",
@@ -171208,7 +171208,7 @@
     "alerted": false
   },
   "greenhouse:checkr:7947606": {
-    "updated_at": "2026-08-31T14:09:22-04:00",
+    "updated_at": "2026-09-09T18:18:26-04:00",
     "title": "Director of Customer Success",
     "company": "checkr",
     "ats": "greenhouse",
@@ -175432,7 +175432,7 @@
     "alerted": false
   },
   "greenhouse:toast:7960698": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive , SMB - Lancaster, PA",
     "company": "toast",
     "ats": "greenhouse",
@@ -178952,8 +178952,8 @@
     "alerted": false
   },
   "greenhouse:airbnb:7964996": {
-    "updated_at": "2026-08-14T05:26:41-04:00",
-    "title": "Safety Specialist",
+    "updated_at": "2026-09-09T18:09:31-04:00",
+    "title": "Support Specialist, Safety",
     "company": "airbnb",
     "ats": "greenhouse",
     "source_slug": "airbnb",
@@ -181216,7 +181216,7 @@
     "alerted": false
   },
   "greenhouse:toast:7947082": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "GTM Engineer - Sales Workflow Automation, Revenue Intelligence",
     "company": "toast",
     "ats": "greenhouse",
@@ -182592,7 +182592,7 @@
     "alerted": false
   },
   "greenhouse:adyen:7958578": {
-    "updated_at": "2026-08-20T10:34:55-04:00",
+    "updated_at": "2026-09-09T18:21:58-04:00",
     "title": "Manager, Rewards (Compensation & Benefits) - Americas",
     "company": "adyen",
     "ats": "greenhouse",
@@ -182672,7 +182672,7 @@
     "alerted": false
   },
   "greenhouse:toast:7972183": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Lead Credit Underwriter - Retail",
     "company": "toast",
     "ats": "greenhouse",
@@ -185416,7 +185416,7 @@
     "alerted": false
   },
   "greenhouse:toast:7931720": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Strategic Finance Manager, Go-To-Market",
     "company": "toast",
     "ats": "greenhouse",
@@ -185424,7 +185424,7 @@
     "alerted": false
   },
   "greenhouse:toast:7931717": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Strategic Finance Manager, Go-To-Market",
     "company": "toast",
     "ats": "greenhouse",
@@ -185432,7 +185432,7 @@
     "alerted": false
   },
   "greenhouse:toast:7917362": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Strategic Finance Manager, Go-To-Market",
     "company": "toast",
     "ats": "greenhouse",
@@ -185920,7 +185920,7 @@
     "alerted": false
   },
   "greenhouse:toast:7972553": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Toledo, OH",
     "company": "toast",
     "ats": "greenhouse",
@@ -185928,7 +185928,7 @@
     "alerted": false
   },
   "greenhouse:toast:7979131": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Ann Arbor, MI",
     "company": "toast",
     "ats": "greenhouse",
@@ -187888,7 +187888,7 @@
     "alerted": false
   },
   "greenhouse:toast:7982262": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Senior Software Engineer - AI Pod",
     "company": "toast",
     "ats": "greenhouse",
@@ -189768,7 +189768,7 @@
     "alerted": false
   },
   "greenhouse:toast:7982315": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Retail Account Executive (Calgary, AB)",
     "company": "toast",
     "ats": "greenhouse",
@@ -190856,7 +190856,7 @@
     "alerted": false
   },
   "greenhouse:postman:7559037003": {
-    "updated_at": "2026-09-09T16:32:08-04:00",
+    "updated_at": "2026-09-09T18:24:10-04:00",
     "title": "Digital Named Enterprise Account Executive",
     "company": "postman",
     "ats": "greenhouse",
@@ -195664,7 +195664,7 @@
     "alerted": false
   },
   "greenhouse:toast:7979861": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Senior Product Manager, Toast Now",
     "company": "toast",
     "ats": "greenhouse",
@@ -195824,7 +195824,7 @@
     "alerted": false
   },
   "greenhouse:toast:7982317": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Paterson, NJ",
     "company": "toast",
     "ats": "greenhouse",
@@ -197584,7 +197584,7 @@
     "alerted": false
   },
   "greenhouse:toast:7997177": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Principal HR Business Partner (R&D)",
     "company": "toast",
     "ats": "greenhouse",
@@ -199504,7 +199504,7 @@
     "alerted": false
   },
   "greenhouse:toast:8001324": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Principal HR Business Partner (R&D)",
     "company": "toast",
     "ats": "greenhouse",
@@ -201760,7 +201760,7 @@
     "alerted": false
   },
   "greenhouse:toast:7984730": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Data Scientist II",
     "company": "toast",
     "ats": "greenhouse",
@@ -207008,7 +207008,7 @@
     "alerted": false
   },
   "greenhouse:toast:7976926": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Strategic Cuisines Account Executive (Mandarin ) - West Coast",
     "company": "toast",
     "ats": "greenhouse",
@@ -213120,7 +213120,7 @@
     "alerted": false
   },
   "greenhouse:toast:8015634": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Savannah, GA",
     "company": "toast",
     "ats": "greenhouse",
@@ -216864,7 +216864,7 @@
     "alerted": false
   },
   "greenhouse:checkr:8027296": {
-    "updated_at": "2026-09-09T16:18:14-04:00",
+    "updated_at": "2026-09-09T18:18:26-04:00",
     "title": "Commercial Account Executive",
     "company": "checkr",
     "ats": "greenhouse",
@@ -217728,7 +217728,7 @@
     "alerted": false
   },
   "greenhouse:checkr:8022521": {
-    "updated_at": "2026-07-08T17:11:17-04:00",
+    "updated_at": "2026-09-09T18:18:26-04:00",
     "title": "Customer Support Specialist",
     "company": "checkr",
     "ats": "greenhouse",
@@ -217792,7 +217792,7 @@
     "alerted": false
   },
   "greenhouse:toast:8025810": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Retail Sales District Manager - Toronto, ON",
     "company": "toast",
     "ats": "greenhouse",
@@ -219064,7 +219064,7 @@
     "alerted": false
   },
   "greenhouse:toast:8026391": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Nashville: East",
     "company": "toast",
     "ats": "greenhouse",
@@ -221328,7 +221328,7 @@
     "alerted": false
   },
   "greenhouse:toast:8028755": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "West Coast Strategic Cuisines Thai & Asian Cuisine District Manager",
     "company": "toast",
     "ats": "greenhouse",
@@ -221464,7 +221464,7 @@
     "alerted": false
   },
   "greenhouse:toast:8024446": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Lexington KY",
     "company": "toast",
     "ats": "greenhouse",
@@ -221472,7 +221472,7 @@
     "alerted": false
   },
   "greenhouse:toast:8031231": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail- Frankfort KY",
     "company": "toast",
     "ats": "greenhouse",
@@ -221848,7 +221848,7 @@
     "alerted": false
   },
   "greenhouse:toast:8031509": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Strategic Cuisines Account Executive (Spanish) - Santa Fe, NM",
     "company": "toast",
     "ats": "greenhouse",
@@ -221856,7 +221856,7 @@
     "alerted": false
   },
   "greenhouse:toast:8031372": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Strategic Cuisines Account Executive (Spanish) - Albuquerque, NM",
     "company": "toast",
     "ats": "greenhouse",
@@ -223792,7 +223792,7 @@
     "alerted": false
   },
   "greenhouse:toast:8031017": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail- Indianapolis, IN",
     "company": "toast",
     "ats": "greenhouse",
@@ -224040,7 +224040,7 @@
     "alerted": false
   },
   "greenhouse:toast:8036903": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Arlington Heights, IL",
     "company": "toast",
     "ats": "greenhouse",
@@ -224048,7 +224048,7 @@
     "alerted": false
   },
   "greenhouse:toast:8036907": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Des Plaines, IL",
     "company": "toast",
     "ats": "greenhouse",
@@ -224056,7 +224056,7 @@
     "alerted": false
   },
   "greenhouse:toast:8036894": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Mount Prospect, IL",
     "company": "toast",
     "ats": "greenhouse",
@@ -224064,7 +224064,7 @@
     "alerted": false
   },
   "greenhouse:toast:8031032": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - North Evanston, IL",
     "company": "toast",
     "ats": "greenhouse",
@@ -224888,7 +224888,7 @@
     "alerted": false
   },
   "greenhouse:toast:8022865": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Senior Software  Engineer \u2013 (Java Full Stack)",
     "company": "toast",
     "ats": "greenhouse",
@@ -228240,7 +228240,7 @@
     "alerted": false
   },
   "greenhouse:toast:8042243": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Prattville, AL",
     "company": "toast",
     "ats": "greenhouse",
@@ -228248,7 +228248,7 @@
     "alerted": false
   },
   "greenhouse:toast:8042228": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Phenix City, AL",
     "company": "toast",
     "ats": "greenhouse",
@@ -229520,7 +229520,7 @@
     "alerted": false
   },
   "greenhouse:toast:8038159": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Staff Software Engineer, Tech Lead",
     "company": "toast",
     "ats": "greenhouse",
@@ -231752,7 +231752,7 @@
     "alerted": false
   },
   "greenhouse:toast:8055429": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Pensacola",
     "company": "toast",
     "ats": "greenhouse",
@@ -232160,7 +232160,7 @@
     "alerted": false
   },
   "greenhouse:toast:8049221": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive , Retail - Rochester, MN",
     "company": "toast",
     "ats": "greenhouse",
@@ -232168,7 +232168,7 @@
     "alerted": false
   },
   "greenhouse:toast:8049262": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Scranton",
     "company": "toast",
     "ats": "greenhouse",
@@ -232216,7 +232216,7 @@
     "alerted": false
   },
   "greenhouse:toast:8047272": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive , Retail - Myrtle Beach, SC",
     "company": "toast",
     "ats": "greenhouse",
@@ -232456,7 +232456,7 @@
     "alerted": false
   },
   "greenhouse:toast:8055259": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - East Cleveland",
     "company": "toast",
     "ats": "greenhouse",
@@ -232624,7 +232624,7 @@
     "alerted": false
   },
   "greenhouse:toast:8055258": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Canton, OH",
     "company": "toast",
     "ats": "greenhouse",
@@ -235144,7 +235144,7 @@
     "alerted": false
   },
   "greenhouse:toast:8052229": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Strategic Cuisines Account Executive (Spanish) - OKC/Tulsa",
     "company": "toast",
     "ats": "greenhouse",
@@ -235216,7 +235216,7 @@
     "alerted": false
   },
   "greenhouse:toast:8048977": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Tallahassee",
     "company": "toast",
     "ats": "greenhouse",
@@ -235568,7 +235568,7 @@
     "alerted": false
   },
   "greenhouse:checkr:8051911": {
-    "updated_at": "2026-07-09T11:41:54-04:00",
+    "updated_at": "2026-09-09T18:18:26-04:00",
     "title": "Director of Tax",
     "company": "checkr",
     "ats": "greenhouse",
@@ -235760,7 +235760,7 @@
     "alerted": false
   },
   "greenhouse:toast:8029049": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Staff Data Scientist",
     "company": "toast",
     "ats": "greenhouse",
@@ -236680,7 +236680,7 @@
     "alerted": false
   },
   "greenhouse:toast:8052453": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Columbus North",
     "company": "toast",
     "ats": "greenhouse",
@@ -236688,7 +236688,7 @@
     "alerted": false
   },
   "greenhouse:toast:8052380": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Columbus North",
     "company": "toast",
     "ats": "greenhouse",
@@ -236800,7 +236800,7 @@
     "alerted": false
   },
   "greenhouse:toast:8052293": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Staff Data Scientist",
     "company": "toast",
     "ats": "greenhouse",
@@ -236808,7 +236808,7 @@
     "alerted": false
   },
   "greenhouse:toast:8052241": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Data Scientist II",
     "company": "toast",
     "ats": "greenhouse",
@@ -236888,7 +236888,7 @@
     "alerted": false
   },
   "greenhouse:toast:8047409": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Cambridge/Somerville",
     "company": "toast",
     "ats": "greenhouse",
@@ -237608,7 +237608,7 @@
     "alerted": false
   },
   "greenhouse:toast:8038744": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Android Software Engineer",
     "company": "toast",
     "ats": "greenhouse",
@@ -238152,7 +238152,7 @@
     "alerted": false
   },
   "greenhouse:toast:8047287": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - El Paso (Spanish/Bilingual)",
     "company": "toast",
     "ats": "greenhouse",
@@ -238248,7 +238248,7 @@
     "alerted": false
   },
   "greenhouse:toast:8049760": {
-    "updated_at": "2026-09-08T11:53:43-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Hybrid Development Representative - Mandarin",
     "company": "toast",
     "ats": "greenhouse",
@@ -238264,7 +238264,7 @@
     "alerted": false
   },
   "greenhouse:toast:8049758": {
-    "updated_at": "2026-09-08T11:50:56-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Hybrid Development Representative - Mandarin",
     "company": "toast",
     "ats": "greenhouse",
@@ -238272,7 +238272,7 @@
     "alerted": false
   },
   "greenhouse:toast:8049759": {
-    "updated_at": "2026-09-08T11:51:01-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Hybrid Development Representative - Mandarin",
     "company": "toast",
     "ats": "greenhouse",
@@ -238280,7 +238280,7 @@
     "alerted": false
   },
   "greenhouse:toast:8049756": {
-    "updated_at": "2026-09-08T11:50:53-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Hybrid Development Representative - Mandarin",
     "company": "toast",
     "ats": "greenhouse",
@@ -238464,7 +238464,7 @@
     "alerted": false
   },
   "greenhouse:toast:8046934": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Staff Software Engineer, Backend",
     "company": "toast",
     "ats": "greenhouse",
@@ -238512,7 +238512,7 @@
     "alerted": false
   },
   "greenhouse:toast:8049264": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Detroit, MI",
     "company": "toast",
     "ats": "greenhouse",
@@ -238904,7 +238904,7 @@
     "alerted": false
   },
   "greenhouse:toast:8046512": {
-    "updated_at": "2026-09-09T08:15:59-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Growth Account Executive - Mandarin",
     "company": "toast",
     "ats": "greenhouse",
@@ -239056,7 +239056,7 @@
     "alerted": false
   },
   "greenhouse:toast:8047274": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Alaska",
     "company": "toast",
     "ats": "greenhouse",
@@ -239552,7 +239552,7 @@
     "alerted": false
   },
   "greenhouse:toast:8047293": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Cambridge/Somerville",
     "company": "toast",
     "ats": "greenhouse",
@@ -239560,7 +239560,7 @@
     "alerted": false
   },
   "greenhouse:toast:8047408": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Cambridge/Somerville",
     "company": "toast",
     "ats": "greenhouse",
@@ -241008,7 +241008,7 @@
     "alerted": false
   },
   "greenhouse:toast:8048975": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive , Retail - Salem, VA",
     "company": "toast",
     "ats": "greenhouse",
@@ -241032,7 +241032,7 @@
     "alerted": false
   },
   "greenhouse:toast:8049237": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive , Retail - Saint Paul, MN",
     "company": "toast",
     "ats": "greenhouse",
@@ -241608,7 +241608,7 @@
     "alerted": false
   },
   "greenhouse:toast:8049007": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive , Retail - Green Bay, WI",
     "company": "toast",
     "ats": "greenhouse",
@@ -241704,7 +241704,7 @@
     "alerted": false
   },
   "greenhouse:toast:8060765": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive , Retail - Conway, SC",
     "company": "toast",
     "ats": "greenhouse",
@@ -241712,7 +241712,7 @@
     "alerted": false
   },
   "greenhouse:toast:8060766": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive , Retail - North Myrtle Beach, SC",
     "company": "toast",
     "ats": "greenhouse",
@@ -241776,7 +241776,7 @@
     "alerted": false
   },
   "greenhouse:toast:8060752": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive , Retail - Roanoke, VA",
     "company": "toast",
     "ats": "greenhouse",
@@ -241824,7 +241824,7 @@
     "alerted": false
   },
   "greenhouse:toast:8060749": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive , Retail - Blacksburg, VA",
     "company": "toast",
     "ats": "greenhouse",
@@ -243040,7 +243040,7 @@
     "alerted": false
   },
   "greenhouse:toast:8054004": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Principal Technical Program Manager, Toast IQ",
     "company": "toast",
     "ats": "greenhouse",
@@ -244720,7 +244720,7 @@
     "alerted": false
   },
   "greenhouse:toast:8065333": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive , Retail - Minneapolis, MN",
     "company": "toast",
     "ats": "greenhouse",
@@ -245512,7 +245512,7 @@
     "alerted": false
   },
   "greenhouse:toast:8067601": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Columbus North",
     "company": "toast",
     "ats": "greenhouse",
@@ -245520,7 +245520,7 @@
     "alerted": false
   },
   "greenhouse:toast:8067599": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Columbus North",
     "company": "toast",
     "ats": "greenhouse",
@@ -245720,7 +245720,7 @@
     "alerted": false
   },
   "greenhouse:toast:7094382": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Strategic Cuisines Account Executive (Mandarin ) - Los Angeles, CA",
     "company": "toast",
     "ats": "greenhouse",
@@ -246360,7 +246360,7 @@
     "alerted": false
   },
   "greenhouse:checkr:7397715": {
-    "updated_at": "2026-07-15T15:22:21-04:00",
+    "updated_at": "2026-09-09T18:18:26-04:00",
     "title": "Enterprise Account Executive, Upper Mid-Market",
     "company": "checkr",
     "ats": "greenhouse",
@@ -246448,7 +246448,7 @@
     "alerted": false
   },
   "greenhouse:toast:8067675": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Customer Growth Sales Account Executive",
     "company": "toast",
     "ats": "greenhouse",
@@ -247960,7 +247960,7 @@
     "alerted": false
   },
   "greenhouse:checkr:8068441": {
-    "updated_at": "2026-07-16T19:58:30-04:00",
+    "updated_at": "2026-09-09T18:18:26-04:00",
     "title": "Partner Marketing Team Lead",
     "company": "checkr",
     "ats": "greenhouse",
@@ -248640,7 +248640,7 @@
     "alerted": false
   },
   "greenhouse:toast:8070333": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive , Retail - Appleton, WI",
     "company": "toast",
     "ats": "greenhouse",
@@ -248648,7 +248648,7 @@
     "alerted": false
   },
   "greenhouse:toast:8070328": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive , Retail - Oshkosh, WI",
     "company": "toast",
     "ats": "greenhouse",
@@ -248856,7 +248856,7 @@
     "alerted": false
   },
   "greenhouse:toast:8067483": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Bentonville/Ft. Smith",
     "company": "toast",
     "ats": "greenhouse",
@@ -249680,7 +249680,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8004261": {
-    "updated_at": "2026-07-22T14:30:08-04:00",
+    "updated_at": "2026-09-09T18:00:09-04:00",
     "title": "Sustainability and Environmental Manager, International",
     "company": "waymo",
     "ats": "greenhouse",
@@ -250864,7 +250864,7 @@
     "alerted": false
   },
   "greenhouse:okta:8072528": {
-    "updated_at": "2026-09-08T12:37:52-04:00",
+    "updated_at": "2026-09-09T18:14:44-04:00",
     "title": "Product Manager, Zero Trust Authentication",
     "company": "okta",
     "ats": "greenhouse",
@@ -252136,7 +252136,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4698414006": {
-    "updated_at": "2026-09-09T09:31:01-04:00",
+    "updated_at": "2026-09-09T18:52:22-04:00",
     "title": "Senior Data Engineer",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -254256,7 +254256,7 @@
     "alerted": false
   },
   "greenhouse:toast:8077927": {
-    "updated_at": "2026-09-08T11:51:14-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Hybrid Development Representative - Mandarin",
     "company": "toast",
     "ats": "greenhouse",
@@ -254272,7 +254272,7 @@
     "alerted": false
   },
   "greenhouse:toast:8077956": {
-    "updated_at": "2026-09-08T11:51:20-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Hybrid Development Representative - Mandarin",
     "company": "toast",
     "ats": "greenhouse",
@@ -254280,7 +254280,7 @@
     "alerted": false
   },
   "greenhouse:toast:8077955": {
-    "updated_at": "2026-09-08T11:53:51-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Hybrid Development Representative - Mandarin",
     "company": "toast",
     "ats": "greenhouse",
@@ -254288,7 +254288,7 @@
     "alerted": false
   },
   "greenhouse:toast:8077952": {
-    "updated_at": "2026-09-08T11:53:49-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Hybrid Development Representative - Mandarin",
     "company": "toast",
     "ats": "greenhouse",
@@ -255168,7 +255168,7 @@
     "alerted": false
   },
   "greenhouse:toast:8076756": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Midland/Odessa, TX - Strategic Cuisines Account Executive - Spanish",
     "company": "toast",
     "ats": "greenhouse",
@@ -256192,7 +256192,7 @@
     "alerted": false
   },
   "greenhouse:toast:8059342": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Manager II, Software Engineering",
     "company": "toast",
     "ats": "greenhouse",
@@ -256304,7 +256304,7 @@
     "alerted": false
   },
   "greenhouse:toast:7838652": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Staff Software Engineer, AI Pod",
     "company": "toast",
     "ats": "greenhouse",
@@ -257080,7 +257080,7 @@
     "alerted": false
   },
   "greenhouse:toast:8079612": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Principal Software Engineer",
     "company": "toast",
     "ats": "greenhouse",
@@ -257440,7 +257440,7 @@
     "alerted": false
   },
   "greenhouse:toast:8080108": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Strategic Cuisines Account Executive (Spanish) - East LA, CA",
     "company": "toast",
     "ats": "greenhouse",
@@ -257488,7 +257488,7 @@
     "alerted": false
   },
   "greenhouse:toast:8080096": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Strategic Cuisines Account Executive (Spanish) - Pomona, CA",
     "company": "toast",
     "ats": "greenhouse",
@@ -259688,7 +259688,7 @@
     "alerted": false
   },
   "greenhouse:toast:8081588": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Senior Director, Revenue Accounting",
     "company": "toast",
     "ats": "greenhouse",
@@ -259696,7 +259696,7 @@
     "alerted": false
   },
   "greenhouse:toast:8081585": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Senior Director, Revenue Accounting",
     "company": "toast",
     "ats": "greenhouse",
@@ -260000,7 +260000,7 @@
     "alerted": false
   },
   "greenhouse:toast:8078687": {
-    "updated_at": "2026-09-03T00:49:55-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Risk Analyst - Strategy & Capabilities",
     "company": "toast",
     "ats": "greenhouse",
@@ -260032,7 +260032,7 @@
     "alerted": false
   },
   "greenhouse:toast:8069625": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Senior Director, Revenue Accounting",
     "company": "toast",
     "ats": "greenhouse",
@@ -260672,7 +260672,7 @@
     "alerted": false
   },
   "greenhouse:toast:8079451": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Senior Manager, International Partnerships",
     "company": "toast",
     "ats": "greenhouse",
@@ -263608,7 +263608,7 @@
     "alerted": false
   },
   "greenhouse:toast:7838464": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Vice President, Enterprise Sales",
     "company": "toast",
     "ats": "greenhouse",
@@ -264984,7 +264984,7 @@
     "alerted": false
   },
   "greenhouse:gusto:8039516": {
-    "updated_at": "2026-09-03T16:57:45-04:00",
+    "updated_at": "2026-09-09T20:02:07-04:00",
     "title": "Staff Software Engineer, Tax Accounts",
     "company": "gusto",
     "ats": "greenhouse",
@@ -265056,7 +265056,7 @@
     "alerted": false
   },
   "greenhouse:toast:8162337": {
-    "updated_at": "2026-09-09T10:32:37-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Principal Software Engineer, Tech Lead, Retail",
     "company": "toast",
     "ats": "greenhouse",
@@ -265816,7 +265816,7 @@
     "alerted": false
   },
   "greenhouse:toast:8157146": {
-    "updated_at": "2026-09-03T14:46:31-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Mid-Market Sales Manager, Retail",
     "company": "toast",
     "ats": "greenhouse",
@@ -266872,7 +266872,7 @@
     "alerted": false
   },
   "greenhouse:toast:8177585": {
-    "updated_at": "2026-09-08T12:41:36-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Product Manager, Branded Mobile App",
     "company": "toast",
     "ats": "greenhouse",
@@ -266992,7 +266992,7 @@
     "alerted": false
   },
   "greenhouse:toast:8177561": {
-    "updated_at": "2026-09-03T12:47:34-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Strategic Cuisines Account Executive, Spanish - Central, CA",
     "company": "toast",
     "ats": "greenhouse",
@@ -267120,7 +267120,7 @@
     "alerted": false
   },
   "greenhouse:toast:8154226": {
-    "updated_at": "2026-09-03T12:23:07-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Principal HR Business Partner (G&A)",
     "company": "toast",
     "ats": "greenhouse",
@@ -267128,7 +267128,7 @@
     "alerted": false
   },
   "greenhouse:toast:8153090": {
-    "updated_at": "2026-09-03T12:23:06-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Principal HR Business Partner (G&A)",
     "company": "toast",
     "ats": "greenhouse",
@@ -267280,7 +267280,7 @@
     "alerted": false
   },
   "greenhouse:toast:8175035": {
-    "updated_at": "2026-09-03T12:04:32-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bookkeeper (Founding Member)",
     "company": "toast",
     "ats": "greenhouse",
@@ -267288,7 +267288,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-09-09T16:47:55-04:00",
+    "updated_at": "2026-09-09T20:02:21-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -267440,7 +267440,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8772602002": {
-    "updated_at": "2026-09-09T00:53:50-04:00",
+    "updated_at": "2026-09-09T18:27:57-04:00",
     "title": "Business Systems Engineer",
     "company": "lyft",
     "ats": "greenhouse",
@@ -267504,7 +267504,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8772592002": {
-    "updated_at": "2026-09-04T14:04:34-04:00",
+    "updated_at": "2026-09-09T18:29:41-04:00",
     "title": "Data Scientist",
     "company": "lyft",
     "ats": "greenhouse",
@@ -267648,7 +267648,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8772604002": {
-    "updated_at": "2026-09-04T14:04:34-04:00",
+    "updated_at": "2026-09-09T18:28:58-04:00",
     "title": "Global Supply Manager",
     "company": "lyft",
     "ats": "greenhouse",
@@ -267968,7 +267968,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8772571002": {
-    "updated_at": "2026-09-09T00:53:16-04:00",
+    "updated_at": "2026-09-09T18:32:16-04:00",
     "title": "Software Engineer",
     "company": "lyft",
     "ats": "greenhouse",
@@ -267976,7 +267976,7 @@
     "alerted": false
   },
   "greenhouse:lyft:8772594002": {
-    "updated_at": "2026-09-09T00:53:34-04:00",
+    "updated_at": "2026-09-09T18:29:31-04:00",
     "title": "Software Engineer",
     "company": "lyft",
     "ats": "greenhouse",
@@ -268064,8 +268064,8 @@
     "alerted": false
   },
   "greenhouse:lyft:8761940002": {
-    "updated_at": "2026-09-04T14:04:34-04:00",
-    "title": "Staff Software Engineer",
+    "updated_at": "2026-09-09T18:59:15-04:00",
+    "title": "Staff Android Tooling Engineer",
     "company": "lyft",
     "ats": "greenhouse",
     "source_slug": "lyft",
@@ -268592,7 +268592,7 @@
     "alerted": false
   },
   "greenhouse:toast:7519051": {
-    "updated_at": "2026-09-03T10:17:56-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Credit Risk Senior Analyst - CECL Reporting, Loss Forecasting",
     "company": "toast",
     "ats": "greenhouse",
@@ -269520,7 +269520,7 @@
     "alerted": false
   },
   "greenhouse:toast:8161239": {
-    "updated_at": "2026-09-08T02:57:58-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "IT Help Desk Analyst",
     "company": "toast",
     "ats": "greenhouse",
@@ -270640,7 +270640,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7818318003": {
-    "updated_at": "2026-09-04T11:42:17-04:00",
+    "updated_at": "2026-09-09T19:20:53-04:00",
     "title": "Senior Community Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -270664,7 +270664,7 @@
     "alerted": false
   },
   "greenhouse:fivetran:7850596003": {
-    "updated_at": "2026-09-04T11:42:17-04:00",
+    "updated_at": "2026-09-09T19:21:00-04:00",
     "title": "Senior Community Manager",
     "company": "fivetran",
     "ats": "greenhouse",
@@ -271848,7 +271848,7 @@
     "alerted": false
   },
   "greenhouse:toast:8161736": {
-    "updated_at": "2026-09-02T17:19:06-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Austin East (Spanish/Bilingual)",
     "company": "toast",
     "ats": "greenhouse",
@@ -272368,7 +272368,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8107088": {
-    "updated_at": "2026-09-02T15:45:01-04:00",
+    "updated_at": "2026-09-09T18:21:01-04:00",
     "title": "ML Engineer, Foundation Model Infrastructure",
     "company": "waymo",
     "ats": "greenhouse",
@@ -272376,7 +272376,7 @@
     "alerted": false
   },
   "greenhouse:waymo:8109035": {
-    "updated_at": "2026-09-02T15:45:01-04:00",
+    "updated_at": "2026-09-09T18:20:31-04:00",
     "title": "ML Engineer, Foundation Model Recipes",
     "company": "waymo",
     "ats": "greenhouse",
@@ -273168,7 +273168,7 @@
     "alerted": false
   },
   "greenhouse:toast:8173861": {
-    "updated_at": "2026-09-02T13:58:15-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Mid Market Account Executive, Toast Retail",
     "company": "toast",
     "ats": "greenhouse",
@@ -273184,7 +273184,7 @@
     "alerted": false
   },
   "greenhouse:toast:8173946": {
-    "updated_at": "2026-09-02T13:57:01-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Mid Market Account Executive, Toast Retail",
     "company": "toast",
     "ats": "greenhouse",
@@ -273208,7 +273208,7 @@
     "alerted": false
   },
   "greenhouse:toast:8173948": {
-    "updated_at": "2026-09-02T13:55:18-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Mid Market Account Executive, Toast Retail",
     "company": "toast",
     "ats": "greenhouse",
@@ -273240,7 +273240,7 @@
     "alerted": false
   },
   "greenhouse:toast:8174263": {
-    "updated_at": "2026-09-02T13:45:16-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Strategic Cuisines Account Executive (Spanish)",
     "company": "toast",
     "ats": "greenhouse",
@@ -274232,7 +274232,7 @@
     "alerted": false
   },
   "greenhouse:toast:8106804": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Strategic Cuisines Account Executive (Mandarin) - Toronto",
     "company": "toast",
     "ats": "greenhouse",
@@ -274240,7 +274240,7 @@
     "alerted": false
   },
   "greenhouse:toast:8109019": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Strategic Cuisines Account Executive (Mandarin ) - West Coast",
     "company": "toast",
     "ats": "greenhouse",
@@ -274248,7 +274248,7 @@
     "alerted": false
   },
   "greenhouse:toast:8109020": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Strategic Cuisines Account Executive (Mandarin ) - West Coast",
     "company": "toast",
     "ats": "greenhouse",
@@ -274256,7 +274256,7 @@
     "alerted": false
   },
   "greenhouse:toast:8106826": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Strategic Cuisines Account Executive - Spanish",
     "company": "toast",
     "ats": "greenhouse",
@@ -274264,7 +274264,7 @@
     "alerted": false
   },
   "greenhouse:toast:8157323": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Strategic Cuisines Account Executive (Spanish) - Elizabeth, NJ",
     "company": "toast",
     "ats": "greenhouse",
@@ -274272,7 +274272,7 @@
     "alerted": false
   },
   "greenhouse:toast:8094648": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Strategic Cuisines Account Executive (Spanish) - Newark, NJ",
     "company": "toast",
     "ats": "greenhouse",
@@ -274288,7 +274288,7 @@
     "alerted": false
   },
   "greenhouse:toast:8094646": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Strategic Cuisines Account Executive (Spanish) - South Austin, TX",
     "company": "toast",
     "ats": "greenhouse",
@@ -274296,7 +274296,7 @@
     "alerted": false
   },
   "greenhouse:toast:8142566": {
-    "updated_at": "2026-09-04T11:00:51-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Strategic Cuisines Account Executive (Spanish) - Southeast Cities, CA",
     "company": "toast",
     "ats": "greenhouse",
@@ -274304,7 +274304,7 @@
     "alerted": false
   },
   "greenhouse:toast:8096851": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Strategic Cuisines Flex Account Executive - Boston, MA (Spanish)",
     "company": "toast",
     "ats": "greenhouse",
@@ -274312,7 +274312,7 @@
     "alerted": false
   },
   "greenhouse:toast:8146078": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Strategic Cuisines Flex Account Executive - Brownsville TX (Spanish)",
     "company": "toast",
     "ats": "greenhouse",
@@ -274320,7 +274320,7 @@
     "alerted": false
   },
   "greenhouse:toast:8105159": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Strategic Cuisines Flex Account Executive - Dallas, TX (Spanish)",
     "company": "toast",
     "ats": "greenhouse",
@@ -274328,7 +274328,7 @@
     "alerted": false
   },
   "greenhouse:toast:8096841": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Strategic Cuisines Flex Account Executive - Houston, TX (Spanish)",
     "company": "toast",
     "ats": "greenhouse",
@@ -274336,7 +274336,7 @@
     "alerted": false
   },
   "greenhouse:toast:8109314": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Strategic Cuisines Flex Account Executive - New York, NY (Spanish)",
     "company": "toast",
     "ats": "greenhouse",
@@ -274344,7 +274344,7 @@
     "alerted": false
   },
   "greenhouse:toast:8146082": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Strategic Cuisines Flex Account Executive - San Angelo, TX (Spanish)",
     "company": "toast",
     "ats": "greenhouse",
@@ -274352,7 +274352,7 @@
     "alerted": false
   },
   "greenhouse:toast:8096843": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Strategic Cuisines Flex Account Executive (Spanish)",
     "company": "toast",
     "ats": "greenhouse",
@@ -274360,7 +274360,7 @@
     "alerted": false
   },
   "greenhouse:toast:8171848": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Strategic Cuisines Flex Account Executive (Thai)",
     "company": "toast",
     "ats": "greenhouse",
@@ -274368,7 +274368,7 @@
     "alerted": false
   },
   "greenhouse:toast:8171859": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Strategic Cuisines Flex Account Executive (Thai)",
     "company": "toast",
     "ats": "greenhouse",
@@ -274376,7 +274376,7 @@
     "alerted": false
   },
   "greenhouse:toast:8171866": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Strategic Cuisines Flex Account Executive (Thai)",
     "company": "toast",
     "ats": "greenhouse",
@@ -274384,7 +274384,7 @@
     "alerted": false
   },
   "greenhouse:toast:8171853": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Strategic Cuisines Flex Account Executive (Thai)",
     "company": "toast",
     "ats": "greenhouse",
@@ -274392,7 +274392,7 @@
     "alerted": false
   },
   "greenhouse:toast:8171847": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Strategic Cuisines Flex Account Executive (Thai)",
     "company": "toast",
     "ats": "greenhouse",
@@ -274400,7 +274400,7 @@
     "alerted": false
   },
   "greenhouse:toast:8131006": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Strategic Cuisines Flex Account Executive (Thai)",
     "company": "toast",
     "ats": "greenhouse",
@@ -274408,7 +274408,7 @@
     "alerted": false
   },
   "greenhouse:toast:8109325": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Strategic Cuisines Flex Account Executive - Washington, D.C. (Spanish)",
     "company": "toast",
     "ats": "greenhouse",
@@ -274416,7 +274416,7 @@
     "alerted": false
   },
   "greenhouse:toast:8079182": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bookkeeper (Founding Member)",
     "company": "toast",
     "ats": "greenhouse",
@@ -274432,7 +274432,7 @@
     "alerted": false
   },
   "greenhouse:toast:8051420": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Business Development Representative - Retail",
     "company": "toast",
     "ats": "greenhouse",
@@ -274440,7 +274440,7 @@
     "alerted": false
   },
   "greenhouse:toast:8167539": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Central Jersey Shore District Manager, SMB",
     "company": "toast",
     "ats": "greenhouse",
@@ -274448,7 +274448,7 @@
     "alerted": false
   },
   "greenhouse:toast:8095392": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Central Jersey Shore District Manager, SMB",
     "company": "toast",
     "ats": "greenhouse",
@@ -274472,7 +274472,7 @@
     "alerted": false
   },
   "greenhouse:toast:8121915": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Community Manager, Consumer",
     "company": "toast",
     "ats": "greenhouse",
@@ -274488,7 +274488,7 @@
     "alerted": false
   },
   "greenhouse:toast:8096111": {
-    "updated_at": "2026-09-08T13:22:35-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Customer Care Specialist - US Payroll",
     "company": "toast",
     "ats": "greenhouse",
@@ -274496,7 +274496,7 @@
     "alerted": false
   },
   "greenhouse:toast:8097331": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Customer Care Tax Expert",
     "company": "toast",
     "ats": "greenhouse",
@@ -274504,7 +274504,7 @@
     "alerted": false
   },
   "greenhouse:toast:8170509": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Customer Growth Account Executive",
     "company": "toast",
     "ats": "greenhouse",
@@ -274512,7 +274512,7 @@
     "alerted": false
   },
   "greenhouse:toast:8147380": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Customer Growth Sales Account Executive",
     "company": "toast",
     "ats": "greenhouse",
@@ -274520,7 +274520,7 @@
     "alerted": false
   },
   "greenhouse:toast:8139426": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Customer Growth Sales Account Executive",
     "company": "toast",
     "ats": "greenhouse",
@@ -274528,7 +274528,7 @@
     "alerted": false
   },
   "greenhouse:toast:8147377": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Customer Growth Sales Account Executive",
     "company": "toast",
     "ats": "greenhouse",
@@ -274536,7 +274536,7 @@
     "alerted": false
   },
   "greenhouse:toast:8147381": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Customer Growth Sales Account Executive",
     "company": "toast",
     "ats": "greenhouse",
@@ -274544,7 +274544,7 @@
     "alerted": false
   },
   "greenhouse:toast:8147379": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Customer Growth Sales Account Executive",
     "company": "toast",
     "ats": "greenhouse",
@@ -274552,7 +274552,7 @@
     "alerted": false
   },
   "greenhouse:toast:8157665": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Director, Enterprise Product Marketing",
     "company": "toast",
     "ats": "greenhouse",
@@ -274568,7 +274568,7 @@
     "alerted": false
   },
   "greenhouse:toast:8129949": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Engineering Manager 2, Real-Time Analytics",
     "company": "toast",
     "ats": "greenhouse",
@@ -274576,7 +274576,7 @@
     "alerted": false
   },
   "greenhouse:toast:8152849": {
-    "updated_at": "2026-09-07T00:30:41-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Field Implementation Technician",
     "company": "toast",
     "ats": "greenhouse",
@@ -274600,7 +274600,7 @@
     "alerted": false
   },
   "greenhouse:toast:8035738": {
-    "updated_at": "2026-09-09T15:30:51-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Golf Territory Account Executive- Canada",
     "company": "toast",
     "ats": "greenhouse",
@@ -274648,7 +274648,7 @@
     "alerted": false
   },
   "greenhouse:toast:8144312": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Inside Account Executive",
     "company": "toast",
     "ats": "greenhouse",
@@ -274656,7 +274656,7 @@
     "alerted": false
   },
   "greenhouse:toast:8109032": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Lead Fraud Risk Analyst",
     "company": "toast",
     "ats": "greenhouse",
@@ -274664,7 +274664,7 @@
     "alerted": false
   },
   "greenhouse:toast:8079399": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Lead Salesforce Developer",
     "company": "toast",
     "ats": "greenhouse",
@@ -274672,7 +274672,7 @@
     "alerted": false
   },
   "greenhouse:toast:8121665": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Lead Salesforce Developer",
     "company": "toast",
     "ats": "greenhouse",
@@ -274688,7 +274688,7 @@
     "alerted": false
   },
   "greenhouse:toast:8158569": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Manager, Customer Care - Payroll",
     "company": "toast",
     "ats": "greenhouse",
@@ -274696,7 +274696,7 @@
     "alerted": false
   },
   "greenhouse:toast:8099054": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Manager - India Tax & Operations",
     "company": "toast",
     "ats": "greenhouse",
@@ -274704,7 +274704,7 @@
     "alerted": false
   },
   "greenhouse:toast:8102938": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Manager, UK Product Partnerships",
     "company": "toast",
     "ats": "greenhouse",
@@ -274712,7 +274712,7 @@
     "alerted": false
   },
   "greenhouse:toast:8157220": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Mid Market Account Executive",
     "company": "toast",
     "ats": "greenhouse",
@@ -274720,7 +274720,7 @@
     "alerted": false
   },
   "greenhouse:toast:8157218": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Mid Market Account Executive- Canada",
     "company": "toast",
     "ats": "greenhouse",
@@ -274728,7 +274728,7 @@
     "alerted": false
   },
   "greenhouse:toast:8159754": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Mid Market Account Executive- Canada",
     "company": "toast",
     "ats": "greenhouse",
@@ -274752,7 +274752,7 @@
     "alerted": false
   },
   "greenhouse:toast:8145097": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Onboarding Consultant I, SMB - Bilingual Thai",
     "company": "toast",
     "ats": "greenhouse",
@@ -274760,7 +274760,7 @@
     "alerted": false
   },
   "greenhouse:toast:8145099": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Onboarding Consultant I, SMB - Bilingual Vietnamese",
     "company": "toast",
     "ats": "greenhouse",
@@ -274768,7 +274768,7 @@
     "alerted": false
   },
   "greenhouse:toast:8158798": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "PeopleHub Coordinator",
     "company": "toast",
     "ats": "greenhouse",
@@ -274776,7 +274776,7 @@
     "alerted": false
   },
   "greenhouse:toast:8164100": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Principal Product Manager, Enterprise Data Solutions",
     "company": "toast",
     "ats": "greenhouse",
@@ -274784,7 +274784,7 @@
     "alerted": false
   },
   "greenhouse:toast:8141220": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Principal Product Manager, International Mid-Market",
     "company": "toast",
     "ats": "greenhouse",
@@ -274792,7 +274792,7 @@
     "alerted": false
   },
   "greenhouse:toast:8127661": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Principal Product Manager, International Mid-Market",
     "company": "toast",
     "ats": "greenhouse",
@@ -274800,7 +274800,7 @@
     "alerted": false
   },
   "greenhouse:toast:8159140": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Principal Software Engineer",
     "company": "toast",
     "ats": "greenhouse",
@@ -274808,7 +274808,7 @@
     "alerted": false
   },
   "greenhouse:toast:8103307": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Principal Software Engineer, Configuration Platform",
     "company": "toast",
     "ats": "greenhouse",
@@ -274816,7 +274816,7 @@
     "alerted": false
   },
   "greenhouse:toast:8068781": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Principal Software Engineer, Toast Partner Connect",
     "company": "toast",
     "ats": "greenhouse",
@@ -274824,7 +274824,7 @@
     "alerted": false
   },
   "greenhouse:toast:8126429": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Restaurant Accounting Lead",
     "company": "toast",
     "ats": "greenhouse",
@@ -274832,7 +274832,7 @@
     "alerted": false
   },
   "greenhouse:toast:8144310": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Retail Sales Enablement Manager",
     "company": "toast",
     "ats": "greenhouse",
@@ -274840,7 +274840,7 @@
     "alerted": false
   },
   "greenhouse:toast:8154990": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Sales Development Representative - International (CAN)",
     "company": "toast",
     "ats": "greenhouse",
@@ -274856,7 +274856,7 @@
     "alerted": false
   },
   "greenhouse:toast:8108697": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Seattle, WA Strategic Cuisines District Sales Manager (Mandarin Speaking)",
     "company": "toast",
     "ats": "greenhouse",
@@ -274864,7 +274864,7 @@
     "alerted": false
   },
   "greenhouse:toast:8103428": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Senior Customer Care Tech Specialist",
     "company": "toast",
     "ats": "greenhouse",
@@ -274872,7 +274872,7 @@
     "alerted": false
   },
   "greenhouse:toast:7977158": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Senior Director of Engineering, Developer and Agent Experience",
     "company": "toast",
     "ats": "greenhouse",
@@ -274880,7 +274880,7 @@
     "alerted": false
   },
   "greenhouse:toast:8094855": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Senior Director of Engineering, Developer and Agent Experience",
     "company": "toast",
     "ats": "greenhouse",
@@ -274888,7 +274888,7 @@
     "alerted": false
   },
   "greenhouse:toast:8147296": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Senior Director of Product, International",
     "company": "toast",
     "ats": "greenhouse",
@@ -274896,7 +274896,7 @@
     "alerted": false
   },
   "greenhouse:toast:8158892": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Senior Full-stack Engineer",
     "company": "toast",
     "ats": "greenhouse",
@@ -274904,7 +274904,7 @@
     "alerted": false
   },
   "greenhouse:toast:8077263": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Senior Full Stack Engineer, Web & Ecommerce",
     "company": "toast",
     "ats": "greenhouse",
@@ -274920,7 +274920,7 @@
     "alerted": false
   },
   "greenhouse:toast:8152954": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Senior Software Engineer, Care Automation",
     "company": "toast",
     "ats": "greenhouse",
@@ -274928,7 +274928,7 @@
     "alerted": false
   },
   "greenhouse:toast:8147153": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Senior Software Engineer - Data Integration",
     "company": "toast",
     "ats": "greenhouse",
@@ -274936,7 +274936,7 @@
     "alerted": false
   },
   "greenhouse:toast:8099127": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Senior Software Engineer, IAM",
     "company": "toast",
     "ats": "greenhouse",
@@ -274944,7 +274944,7 @@
     "alerted": false
   },
   "greenhouse:toast:8144016": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Senior Software Engineering Manager, ToastNow",
     "company": "toast",
     "ats": "greenhouse",
@@ -274952,7 +274952,7 @@
     "alerted": false
   },
   "greenhouse:toast:8167218": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Senior Software Engineer, Toast Delivery Services",
     "company": "toast",
     "ats": "greenhouse",
@@ -274960,7 +274960,7 @@
     "alerted": false
   },
   "greenhouse:toast:8097746": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Senior Solutions Consultant, Enterprise",
     "company": "toast",
     "ats": "greenhouse",
@@ -274968,7 +274968,7 @@
     "alerted": false
   },
   "greenhouse:toast:8158567": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Senior Specialist, Procurement",
     "company": "toast",
     "ats": "greenhouse",
@@ -274984,7 +274984,7 @@
     "alerted": false
   },
   "greenhouse:toast:8162094": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Solutions Engineer",
     "company": "toast",
     "ats": "greenhouse",
@@ -274992,7 +274992,7 @@
     "alerted": false
   },
   "greenhouse:toast:8147449": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Staff Software Engineer - AI/Agent Engineer, Care Automation",
     "company": "toast",
     "ats": "greenhouse",
@@ -275000,7 +275000,7 @@
     "alerted": false
   },
   "greenhouse:toast:8131117": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Staff Software Engineer, Voice AI Platform",
     "company": "toast",
     "ats": "greenhouse",
@@ -275016,7 +275016,7 @@
     "alerted": false
   },
   "greenhouse:toast:8147858": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Strategic Cuisines Account Executive - Spanish - Tri-Valley, CA",
     "company": "toast",
     "ats": "greenhouse",
@@ -275032,7 +275032,7 @@
     "alerted": false
   },
   "greenhouse:toast:8106806": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Strategic Cuisines Flex Account Executive, Mandarin - Central",
     "company": "toast",
     "ats": "greenhouse",
@@ -275040,7 +275040,7 @@
     "alerted": false
   },
   "greenhouse:toast:8106808": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Strategic Cuisines Flex Account Executive, Mandarin - Florida",
     "company": "toast",
     "ats": "greenhouse",
@@ -275048,7 +275048,7 @@
     "alerted": false
   },
   "greenhouse:toast:8130801": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Strategic Cuisines Flex Account Executive, Mandarin - Florida",
     "company": "toast",
     "ats": "greenhouse",
@@ -275056,7 +275056,7 @@
     "alerted": false
   },
   "greenhouse:toast:8096834": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Strategic Cuisines Flex Account Executive, Vietnamese - West Coast",
     "company": "toast",
     "ats": "greenhouse",
@@ -275064,7 +275064,7 @@
     "alerted": false
   },
   "greenhouse:toast:8147836": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Strategic Cuisines - Korean AE (Central)",
     "company": "toast",
     "ats": "greenhouse",
@@ -275072,7 +275072,7 @@
     "alerted": false
   },
   "greenhouse:toast:8147838": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Strategic Cuisines - Korean AE (Central)",
     "company": "toast",
     "ats": "greenhouse",
@@ -275088,7 +275088,7 @@
     "alerted": false
   },
   "greenhouse:toast:8083373": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Strategic Finance Senior Associate",
     "company": "toast",
     "ats": "greenhouse",
@@ -275096,7 +275096,7 @@
     "alerted": false
   },
   "greenhouse:toast:8105851": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Strategic Finance Senior Associate",
     "company": "toast",
     "ats": "greenhouse",
@@ -275104,7 +275104,7 @@
     "alerted": false
   },
   "greenhouse:toast:8105852": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Strategic Finance Senior Associate",
     "company": "toast",
     "ats": "greenhouse",
@@ -275128,7 +275128,7 @@
     "alerted": false
   },
   "greenhouse:toast:8094879": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive",
     "company": "toast",
     "ats": "greenhouse",
@@ -275136,7 +275136,7 @@
     "alerted": false
   },
   "greenhouse:toast:8140231": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive",
     "company": "toast",
     "ats": "greenhouse",
@@ -275144,7 +275144,7 @@
     "alerted": false
   },
   "greenhouse:toast:8096162": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive- Brampton/Mississauga",
     "company": "toast",
     "ats": "greenhouse",
@@ -275152,7 +275152,7 @@
     "alerted": false
   },
   "greenhouse:toast:8088329": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive- East Ottawa",
     "company": "toast",
     "ats": "greenhouse",
@@ -275160,7 +275160,7 @@
     "alerted": false
   },
   "greenhouse:toast:8122273": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive-Melbourne",
     "company": "toast",
     "ats": "greenhouse",
@@ -275168,7 +275168,7 @@
     "alerted": false
   },
   "greenhouse:toast:8102936": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive-Oakville/Burlington",
     "company": "toast",
     "ats": "greenhouse",
@@ -275176,7 +275176,7 @@
     "alerted": false
   },
   "greenhouse:toast:8164781": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail",
     "company": "toast",
     "ats": "greenhouse",
@@ -275184,7 +275184,7 @@
     "alerted": false
   },
   "greenhouse:toast:8119854": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail  - Carmel, IN",
     "company": "toast",
     "ats": "greenhouse",
@@ -275192,7 +275192,7 @@
     "alerted": false
   },
   "greenhouse:toast:8159490": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive , Retail - Charlottesville, VA",
     "company": "toast",
     "ats": "greenhouse",
@@ -275200,7 +275200,7 @@
     "alerted": false
   },
   "greenhouse:toast:8164850": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Clifton, NJ",
     "company": "toast",
     "ats": "greenhouse",
@@ -275208,7 +275208,7 @@
     "alerted": false
   },
   "greenhouse:toast:8118757": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive , Retail - Covington, GA",
     "company": "toast",
     "ats": "greenhouse",
@@ -275216,7 +275216,7 @@
     "alerted": false
   },
   "greenhouse:toast:8109795": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive , Retail - Decatur, GA",
     "company": "toast",
     "ats": "greenhouse",
@@ -275224,7 +275224,7 @@
     "alerted": false
   },
   "greenhouse:toast:8164846": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - East Orange, NJ",
     "company": "toast",
     "ats": "greenhouse",
@@ -275232,7 +275232,7 @@
     "alerted": false
   },
   "greenhouse:toast:8094584": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Erie, PA",
     "company": "toast",
     "ats": "greenhouse",
@@ -275240,7 +275240,7 @@
     "alerted": false
   },
   "greenhouse:toast:8164783": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail- Evansville, IN",
     "company": "toast",
     "ats": "greenhouse",
@@ -275248,7 +275248,7 @@
     "alerted": false
   },
   "greenhouse:toast:8164829": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail- Henderson, KY",
     "company": "toast",
     "ats": "greenhouse",
@@ -275256,7 +275256,7 @@
     "alerted": false
   },
   "greenhouse:toast:8125655": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail- Jeffersonville, IN",
     "company": "toast",
     "ats": "greenhouse",
@@ -275264,7 +275264,7 @@
     "alerted": false
   },
   "greenhouse:toast:8125778": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Lafayette, IN",
     "company": "toast",
     "ats": "greenhouse",
@@ -275272,7 +275272,7 @@
     "alerted": false
   },
   "greenhouse:toast:8125515": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail- Louisville, KY",
     "company": "toast",
     "ats": "greenhouse",
@@ -275280,7 +275280,7 @@
     "alerted": false
   },
   "greenhouse:toast:8125653": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail- New Albany, IN",
     "company": "toast",
     "ats": "greenhouse",
@@ -275288,7 +275288,7 @@
     "alerted": false
   },
   "greenhouse:toast:8155033": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Newark, NJ",
     "company": "toast",
     "ats": "greenhouse",
@@ -275296,7 +275296,7 @@
     "alerted": false
   },
   "greenhouse:toast:8164827": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail- Newburgh, IN",
     "company": "toast",
     "ats": "greenhouse",
@@ -275304,7 +275304,7 @@
     "alerted": false
   },
   "greenhouse:toast:8094585": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Retail - Youngstown, OH",
     "company": "toast",
     "ats": "greenhouse",
@@ -275312,7 +275312,7 @@
     "alerted": false
   },
   "greenhouse:toast:8171912": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, SMB",
     "company": "toast",
     "ats": "greenhouse",
@@ -275320,7 +275320,7 @@
     "alerted": false
   },
   "greenhouse:toast:8171898": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, SMB",
     "company": "toast",
     "ats": "greenhouse",
@@ -275328,7 +275328,7 @@
     "alerted": false
   },
   "greenhouse:toast:8170758": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive , SMB - Austin, TX",
     "company": "toast",
     "ats": "greenhouse",
@@ -275336,7 +275336,7 @@
     "alerted": false
   },
   "greenhouse:toast:8132363": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, SMB - Burlington, NJ",
     "company": "toast",
     "ats": "greenhouse",
@@ -275344,7 +275344,7 @@
     "alerted": false
   },
   "greenhouse:toast:8111787": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, SMB - Fredericksburg, VA",
     "company": "toast",
     "ats": "greenhouse",
@@ -275352,7 +275352,7 @@
     "alerted": false
   },
   "greenhouse:toast:8170915": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, SMB - Indianapolis (Western Suburbs), IN",
     "company": "toast",
     "ats": "greenhouse",
@@ -275360,7 +275360,7 @@
     "alerted": false
   },
   "greenhouse:toast:8161701": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, SMB - Lafayette, IN",
     "company": "toast",
     "ats": "greenhouse",
@@ -275368,7 +275368,7 @@
     "alerted": false
   },
   "greenhouse:toast:8129914": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, SMB - Long Beach Island, NJ",
     "company": "toast",
     "ats": "greenhouse",
@@ -275384,7 +275384,7 @@
     "alerted": false
   },
   "greenhouse:toast:8119701": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, SMB - Ocean City, NJ",
     "company": "toast",
     "ats": "greenhouse",
@@ -275392,7 +275392,7 @@
     "alerted": false
   },
   "greenhouse:toast:8109622": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, SMB - Overland Park, KS",
     "company": "toast",
     "ats": "greenhouse",
@@ -275400,7 +275400,7 @@
     "alerted": false
   },
   "greenhouse:toast:8121501": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive , SMB - Pittsburgh, PA",
     "company": "toast",
     "ats": "greenhouse",
@@ -275408,7 +275408,7 @@
     "alerted": false
   },
   "greenhouse:toast:8169547": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, SMB - Sandusky, OH",
     "company": "toast",
     "ats": "greenhouse",
@@ -275416,7 +275416,7 @@
     "alerted": false
   },
   "greenhouse:toast:8167252": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, SMB - Toms River, NJ",
     "company": "toast",
     "ats": "greenhouse",
@@ -275424,7 +275424,7 @@
     "alerted": false
   },
   "greenhouse:toast:8166831": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, Strategic Markets - Seattle, WA",
     "company": "toast",
     "ats": "greenhouse",
@@ -275432,7 +275432,7 @@
     "alerted": false
   },
   "greenhouse:toast:8142648": {
-    "updated_at": "2026-09-02T11:38:47-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Tri-Valley, CA Strategic Cuisines Account Executive - Spanish",
     "company": "toast",
     "ats": "greenhouse",
@@ -278272,7 +278272,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8739506002": {
-    "updated_at": "2026-09-02T00:52:45-04:00",
+    "updated_at": "2026-09-09T18:24:11-04:00",
     "title": "Specialist Solutions Architect - Cloud Infrastructure & Platform (AWS)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -278616,7 +278616,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8637736002": {
-    "updated_at": "2026-09-02T00:47:48-04:00",
+    "updated_at": "2026-09-09T18:59:09-04:00",
     "title": "Deployment Strategist",
     "company": "databricks",
     "ats": "greenhouse",
@@ -278656,7 +278656,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8630011002": {
-    "updated_at": "2026-09-02T00:45:50-04:00",
+    "updated_at": "2026-09-09T18:59:03-04:00",
     "title": "Deployment Strategist",
     "company": "databricks",
     "ats": "greenhouse",
@@ -278800,7 +278800,7 @@
     "alerted": false
   },
   "greenhouse:databricks:8604472002": {
-    "updated_at": "2026-09-02T00:40:39-04:00",
+    "updated_at": "2026-09-09T19:29:12-04:00",
     "title": "Specialist Solutions Architect - Data Warehousing (Healthcare & Life Sciences)",
     "company": "databricks",
     "ats": "greenhouse",
@@ -291088,7 +291088,7 @@
     "alerted": false
   },
   "greenhouse:flexport:8166038": {
-    "updated_at": "2026-09-01T01:14:54-04:00",
+    "updated_at": "2026-09-09T20:01:17-04:00",
     "title": "Security Engineer, Corporate Security",
     "company": "flexport",
     "ats": "greenhouse",
@@ -292288,7 +292288,7 @@
     "alerted": false
   },
   "greenhouse:checkr:8167494": {
-    "updated_at": "2026-08-31T17:45:29-04:00",
+    "updated_at": "2026-09-09T18:18:26-04:00",
     "title": "Engineering Manager, Mortgage",
     "company": "checkr",
     "ats": "greenhouse",
@@ -292464,7 +292464,7 @@
     "alerted": false
   },
   "greenhouse:coreweave:4702026006": {
-    "updated_at": "2026-09-09T09:31:01-04:00",
+    "updated_at": "2026-09-09T19:28:49-04:00",
     "title": "EHS Global Audit Manager",
     "company": "coreweave",
     "ats": "greenhouse",
@@ -292976,7 +292976,7 @@
     "alerted": false
   },
   "greenhouse:checkr:8163473": {
-    "updated_at": "2026-08-31T16:59:50-04:00",
+    "updated_at": "2026-09-09T18:18:26-04:00",
     "title": "Litigation & Employment Counsel",
     "company": "checkr",
     "ats": "greenhouse",
@@ -293584,7 +293584,7 @@
     "alerted": false
   },
   "greenhouse:postman:7979886003": {
-    "updated_at": "2026-09-09T16:32:08-04:00",
+    "updated_at": "2026-09-09T18:29:42-04:00",
     "title": "Account Development Representative",
     "company": "postman",
     "ats": "greenhouse",
@@ -294568,7 +294568,7 @@
     "alerted": false
   },
   "greenhouse:checkr:8162782": {
-    "updated_at": "2026-08-30T20:05:47-04:00",
+    "updated_at": "2026-09-09T18:18:26-04:00",
     "title": "Drug & Occupational Health Screening Investigator",
     "company": "checkr",
     "ats": "greenhouse",
@@ -295896,7 +295896,7 @@
     "alerted": false
   },
   "greenhouse:checkr:8154516": {
-    "updated_at": "2026-08-28T13:40:07-04:00",
+    "updated_at": "2026-09-09T18:18:26-04:00",
     "title": "Drug & Occupational Health Screening Specialist",
     "company": "checkr",
     "ats": "greenhouse",
@@ -296680,7 +296680,7 @@
     "alerted": false
   },
   "greenhouse:checkr:8156502": {
-    "updated_at": "2026-08-27T23:43:32-04:00",
+    "updated_at": "2026-09-09T18:18:26-04:00",
     "title": "Director, GTM Systems",
     "company": "checkr",
     "ats": "greenhouse",
@@ -298368,7 +298368,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8155560": {
-    "updated_at": "2026-08-27T11:26:09-04:00",
+    "updated_at": "2026-09-09T19:20:19-04:00",
     "title": "Senior Site Reliability Engineer (Capacity) - Platform Infrastructure",
     "company": "elastic",
     "ats": "greenhouse",
@@ -298376,7 +298376,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8070615": {
-    "updated_at": "2026-08-27T11:26:09-04:00",
+    "updated_at": "2026-09-09T19:20:13-04:00",
     "title": "Senior Site Reliability Engineer (Capacity) - Platform Infrastructure",
     "company": "elastic",
     "ats": "greenhouse",
@@ -298384,7 +298384,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8155557": {
-    "updated_at": "2026-08-27T11:26:09-04:00",
+    "updated_at": "2026-09-09T19:20:15-04:00",
     "title": "Senior Site Reliability Engineer (Capacity) - Platform Infrastructure",
     "company": "elastic",
     "ats": "greenhouse",
@@ -298392,7 +298392,7 @@
     "alerted": false
   },
   "greenhouse:elastic:8155558": {
-    "updated_at": "2026-08-27T11:26:09-04:00",
+    "updated_at": "2026-09-09T19:20:17-04:00",
     "title": "Senior Site Reliability Engineer (Capacity) - Platform Infrastructure",
     "company": "elastic",
     "ats": "greenhouse",
@@ -299056,7 +299056,7 @@
     "alerted": false
   },
   "greenhouse:mixpanel:8142657": {
-    "updated_at": "2026-08-27T01:29:29-04:00",
+    "updated_at": "2026-09-09T19:30:30-04:00",
     "title": "Customer Engineer",
     "company": "mixpanel",
     "ats": "greenhouse",
@@ -303040,8 +303040,8 @@
     "alerted": false
   },
   "greenhouse:pagerduty:6160734004": {
-    "updated_at": "2026-08-24T19:27:21-04:00",
-    "title": "Senior Content Strategist",
+    "updated_at": "2026-09-09T18:05:15-04:00",
+    "title": "Senior Content Specialist",
     "company": "pagerduty",
     "ats": "greenhouse",
     "source_slug": "pagerduty",
@@ -304016,16 +304016,16 @@
     "alerted": false
   },
   "greenhouse:instacart:8120471": {
-    "updated_at": "2026-08-24T13:15:00-04:00",
-    "title": "Senior Product Manager, Carrot Ads",
+    "updated_at": "2026-09-09T19:34:52-04:00",
+    "title": "Senior Product Manager, Advertiser Experience",
     "company": "instacart",
     "ats": "greenhouse",
     "source_slug": "instacart",
     "alerted": false
   },
   "greenhouse:instacart:8120469": {
-    "updated_at": "2026-08-24T13:15:00-04:00",
-    "title": "Senior Product Manager, Carrot Ads",
+    "updated_at": "2026-09-09T19:34:46-04:00",
+    "title": "Senior Product Manager, Advertiser Experience",
     "company": "instacart",
     "ats": "greenhouse",
     "source_slug": "instacart",
@@ -305456,7 +305456,7 @@
     "alerted": false
   },
   "greenhouse:checkr:8132600": {
-    "updated_at": "2026-08-21T16:14:06-04:00",
+    "updated_at": "2026-09-09T18:18:26-04:00",
     "title": "Accounts Receivable Lead",
     "company": "checkr",
     "ats": "greenhouse",
@@ -306600,7 +306600,7 @@
     "alerted": false
   },
   "greenhouse:checkr:8144106": {
-    "updated_at": "2026-08-21T11:46:27-04:00",
+    "updated_at": "2026-09-09T18:18:26-04:00",
     "title": "Enterprise Account Executive",
     "company": "checkr",
     "ats": "greenhouse",
@@ -310784,8 +310784,8 @@
     "alerted": false
   },
   "greenhouse:airbnb:8132178": {
-    "updated_at": "2026-08-18T09:41:11-04:00",
-    "title": "Senior Specialist, Premium Support (English/Spanish)",
+    "updated_at": "2026-09-09T18:19:18-04:00",
+    "title": "Senior Support Specialist, Premium Support",
     "company": "airbnb",
     "ats": "greenhouse",
     "source_slug": "airbnb",
@@ -311872,8 +311872,8 @@
     "alerted": false
   },
   "greenhouse:airbnb:8080766": {
-    "updated_at": "2026-08-12T17:29:33-04:00",
-    "title": "Specialist, Premium Support",
+    "updated_at": "2026-09-09T18:05:21-04:00",
+    "title": "Support Specialist, Premium Support",
     "company": "airbnb",
     "ats": "greenhouse",
     "source_slug": "airbnb",
@@ -313376,8 +313376,8 @@
     "alerted": false
   },
   "greenhouse:airbnb:8107160": {
-    "updated_at": "2026-08-05T11:03:52-04:00",
-    "title": "Senior Specialist, Premium Support",
+    "updated_at": "2026-09-09T18:22:30-04:00",
+    "title": "Senior Support Specialist, Premium Support",
     "company": "airbnb",
     "ats": "greenhouse",
     "source_slug": "airbnb",
@@ -313440,8 +313440,8 @@
     "alerted": false
   },
   "greenhouse:airbnb:8091849": {
-    "updated_at": "2026-08-04T17:42:25-04:00",
-    "title": "Senior Specialist, Premium Support (Portuguese/English)",
+    "updated_at": "2026-09-09T18:34:15-04:00",
+    "title": "Senior Support Specialist, Premium Support",
     "company": "airbnb",
     "ats": "greenhouse",
     "source_slug": "airbnb",
@@ -314240,7 +314240,7 @@
     "alerted": false
   },
   "greenhouse:checkr:8095226": {
-    "updated_at": "2026-07-29T17:08:02-04:00",
+    "updated_at": "2026-09-09T18:18:26-04:00",
     "title": "Commercial Counsel",
     "company": "checkr",
     "ats": "greenhouse",
@@ -314360,7 +314360,7 @@
     "alerted": false
   },
   "greenhouse:checkr:8092999": {
-    "updated_at": "2026-07-28T17:04:42-04:00",
+    "updated_at": "2026-09-09T18:18:26-04:00",
     "title": "Enterprise Business Development Representative",
     "company": "checkr",
     "ats": "greenhouse",
@@ -315120,7 +315120,7 @@
     "alerted": false
   },
   "greenhouse:toast:8099800": {
-    "updated_at": "2026-09-03T18:10:42-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Senior Director, Enterprise Customer Care - AI Strategy",
     "company": "toast",
     "ats": "greenhouse",
@@ -315208,7 +315208,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5382617008": {
-    "updated_at": "2026-09-03T17:20:41-04:00",
+    "updated_at": "2026-09-09T17:59:47-04:00",
     "title": "Program Specialist, M&A",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -315536,7 +315536,7 @@
     "alerted": false
   },
   "greenhouse:toast:8179881": {
-    "updated_at": "2026-09-04T10:51:52-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive , SMB - NW Houston, TX",
     "company": "toast",
     "ats": "greenhouse",
@@ -315680,7 +315680,7 @@
     "alerted": false
   },
   "greenhouse:toast:8167315": {
-    "updated_at": "2026-09-04T09:23:00-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, SMB - Lower Westchester, NY",
     "company": "toast",
     "ats": "greenhouse",
@@ -315760,7 +315760,7 @@
     "alerted": false
   },
   "greenhouse:toast:8179472": {
-    "updated_at": "2026-09-08T08:01:34-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Inside Account Executive- Brampton",
     "company": "toast",
     "ats": "greenhouse",
@@ -315768,7 +315768,7 @@
     "alerted": false
   },
   "greenhouse:toast:8176827": {
-    "updated_at": "2026-09-08T08:01:17-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Inside Account Executive- Canada",
     "company": "toast",
     "ats": "greenhouse",
@@ -316296,7 +316296,7 @@
     "alerted": false
   },
   "greenhouse:toast:8173359": {
-    "updated_at": "2026-09-09T12:59:40-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Customer Success Manager",
     "company": "toast",
     "ats": "greenhouse",
@@ -316384,7 +316384,7 @@
     "alerted": false
   },
   "greenhouse:toast:8179685": {
-    "updated_at": "2026-09-04T11:01:12-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Strategic Cuisines Account Executive (Spanish) - Brownsville, TX",
     "company": "toast",
     "ats": "greenhouse",
@@ -318504,7 +318504,7 @@
     "alerted": false
   },
   "greenhouse:toast:8185448": {
-    "updated_at": "2026-09-08T12:43:42-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Senior Software Engineer, IQ Grow",
     "company": "toast",
     "ats": "greenhouse",
@@ -318520,7 +318520,7 @@
     "alerted": false
   },
   "greenhouse:toast:8185446": {
-    "updated_at": "2026-09-08T12:44:54-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Software Engineer II, IQ Grow",
     "company": "toast",
     "ats": "greenhouse",
@@ -318536,7 +318536,7 @@
     "alerted": false
   },
   "greenhouse:toast:8185438": {
-    "updated_at": "2026-09-08T12:47:08-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Software Engineer I, IQ Grow",
     "company": "toast",
     "ats": "greenhouse",
@@ -318568,7 +318568,7 @@
     "alerted": false
   },
   "greenhouse:toast:8185374": {
-    "updated_at": "2026-09-08T03:32:41-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Principal Software Engineer, Data Platform",
     "company": "toast",
     "ats": "greenhouse",
@@ -318576,7 +318576,7 @@
     "alerted": false
   },
   "greenhouse:toast:8185372": {
-    "updated_at": "2026-09-08T03:32:12-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Senior Software Engineer, Analytics & Search",
     "company": "toast",
     "ats": "greenhouse",
@@ -319120,7 +319120,7 @@
     "alerted": false
   },
   "greenhouse:checkr:8187249": {
-    "updated_at": "2026-09-08T17:21:28-04:00",
+    "updated_at": "2026-09-09T18:18:26-04:00",
     "title": "Engineering Manager, Mortgage",
     "company": "checkr",
     "ats": "greenhouse",
@@ -319128,7 +319128,7 @@
     "alerted": false
   },
   "greenhouse:checkr:8187248": {
-    "updated_at": "2026-09-08T17:20:47-04:00",
+    "updated_at": "2026-09-09T18:18:26-04:00",
     "title": "Engineering Manager, Verifications",
     "company": "checkr",
     "ats": "greenhouse",
@@ -319368,7 +319368,7 @@
     "alerted": false
   },
   "greenhouse:toast:8159352": {
-    "updated_at": "2026-09-08T16:41:20-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Staff Software Engineer, GTM & AI Strategy",
     "company": "toast",
     "ats": "greenhouse",
@@ -319552,7 +319552,7 @@
     "alerted": false
   },
   "greenhouse:toast:8165076": {
-    "updated_at": "2026-09-08T15:37:17-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Principal Software Engineer, International Integrations",
     "company": "toast",
     "ats": "greenhouse",
@@ -319616,7 +319616,7 @@
     "alerted": false
   },
   "greenhouse:toast:8186735": {
-    "updated_at": "2026-09-08T15:20:03-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Hybrid Development Representative - Vietnamese",
     "company": "toast",
     "ats": "greenhouse",
@@ -319624,7 +319624,7 @@
     "alerted": false
   },
   "greenhouse:toast:8186721": {
-    "updated_at": "2026-09-08T15:19:27-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Hybrid Development Representative - Vietnamese",
     "company": "toast",
     "ats": "greenhouse",
@@ -319632,7 +319632,7 @@
     "alerted": false
   },
   "greenhouse:toast:8186762": {
-    "updated_at": "2026-09-08T15:18:28-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Hybrid Development Representative - Vietnamese",
     "company": "toast",
     "ats": "greenhouse",
@@ -319640,7 +319640,7 @@
     "alerted": false
   },
   "greenhouse:toast:8186746": {
-    "updated_at": "2026-09-08T15:18:25-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Hybrid Development Representative - Vietnamese",
     "company": "toast",
     "ats": "greenhouse",
@@ -319648,7 +319648,7 @@
     "alerted": false
   },
   "greenhouse:toast:8186738": {
-    "updated_at": "2026-09-08T15:18:09-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Hybrid Development Representative - Vietnamese",
     "company": "toast",
     "ats": "greenhouse",
@@ -319656,7 +319656,7 @@
     "alerted": false
   },
   "greenhouse:toast:8186713": {
-    "updated_at": "2026-09-08T15:17:56-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Hybrid Development Representative - Vietnamese",
     "company": "toast",
     "ats": "greenhouse",
@@ -320032,7 +320032,7 @@
     "alerted": false
   },
   "greenhouse:toast:8186365": {
-    "updated_at": "2026-09-08T12:38:37-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "San Francisco, CA Strategic Cuisines Account Executive - Thai",
     "company": "toast",
     "ats": "greenhouse",
@@ -320080,7 +320080,7 @@
     "alerted": false
   },
   "greenhouse:toast:8186265": {
-    "updated_at": "2026-09-08T12:26:27-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "San Diego, CA Strategic Cuisines Account Executive - Spanish",
     "company": "toast",
     "ats": "greenhouse",
@@ -320104,7 +320104,7 @@
     "alerted": false
   },
   "greenhouse:toast:8186263": {
-    "updated_at": "2026-09-08T12:24:58-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "North Bay, CA Strategic Cuisines Account Executive - Spanish",
     "company": "toast",
     "ats": "greenhouse",
@@ -320112,7 +320112,7 @@
     "alerted": false
   },
   "greenhouse:toast:8186260": {
-    "updated_at": "2026-09-08T12:24:17-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "North Bay, CA Strategic Cuisines Account Executive - Spanish",
     "company": "toast",
     "ats": "greenhouse",
@@ -320128,7 +320128,7 @@
     "alerted": false
   },
   "greenhouse:toast:8186258": {
-    "updated_at": "2026-09-08T12:22:19-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Central Valley, CA Strategic Cuisines Account Executive - Spanish",
     "company": "toast",
     "ats": "greenhouse",
@@ -320136,7 +320136,7 @@
     "alerted": false
   },
   "greenhouse:toast:8186254": {
-    "updated_at": "2026-09-08T12:21:38-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Central Valley, CA Strategic Cuisines Account Executive - Spanish",
     "company": "toast",
     "ats": "greenhouse",
@@ -320144,7 +320144,7 @@
     "alerted": false
   },
   "greenhouse:toast:8186228": {
-    "updated_at": "2026-09-08T12:20:37-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Strategic Cuisines Account Executive, Spanish - Central, CA",
     "company": "toast",
     "ats": "greenhouse",
@@ -320320,7 +320320,7 @@
     "alerted": false
   },
   "greenhouse:toast:8164572": {
-    "updated_at": "2026-09-08T09:53:39-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Senior Software Engineer - Android",
     "company": "toast",
     "ats": "greenhouse",
@@ -320848,7 +320848,7 @@
     "alerted": false
   },
   "greenhouse:verkada:5121488007": {
-    "updated_at": "2026-09-08T21:18:04-04:00",
+    "updated_at": "2026-09-09T19:12:17-04:00",
     "title": "Technical Support Engineer - University Graduate 2027",
     "company": "verkada",
     "ats": "greenhouse",
@@ -321032,7 +321032,7 @@
     "alerted": false
   },
   "greenhouse:toast:8038726": {
-    "updated_at": "2026-09-09T06:59:31-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Field Account Executive",
     "company": "toast",
     "ats": "greenhouse",
@@ -321200,7 +321200,7 @@
     "alerted": false
   },
   "greenhouse:anthropic:5420115008": {
-    "updated_at": "2026-09-09T17:50:59-04:00",
+    "updated_at": "2026-09-09T18:05:01-04:00",
     "title": "Staff Software Engineer: Compute",
     "company": "anthropic",
     "ats": "greenhouse",
@@ -321288,7 +321288,7 @@
     "alerted": false
   },
   "greenhouse:reddit:8186566": {
-    "updated_at": "2026-09-09T17:11:39-04:00",
+    "updated_at": "2026-09-09T18:42:31-04:00",
     "title": "Global Indirect Tax Manager",
     "company": "reddit",
     "ats": "greenhouse",
@@ -321536,7 +321536,7 @@
     "alerted": false
   },
   "greenhouse:toast:8106365": {
-    "updated_at": "2026-09-09T16:23:38-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Strategic Cuisines Flex Account Executive (Spanish)",
     "company": "toast",
     "ats": "greenhouse",
@@ -321664,7 +321664,7 @@
     "alerted": false
   },
   "greenhouse:toast:8185746": {
-    "updated_at": "2026-09-09T15:44:21-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive  - Niagara Falls",
     "company": "toast",
     "ats": "greenhouse",
@@ -321792,7 +321792,7 @@
     "alerted": false
   },
   "greenhouse:toast:8145901": {
-    "updated_at": "2026-09-09T14:55:28-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Director, Enterprise Customer Success",
     "company": "toast",
     "ats": "greenhouse",
@@ -322392,7 +322392,7 @@
     "alerted": false
   },
   "greenhouse:toast:8188649": {
-    "updated_at": "2026-09-09T11:10:21-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive , SMB - Lincoln/West Omaha, NE",
     "company": "toast",
     "ats": "greenhouse",
@@ -322408,7 +322408,7 @@
     "alerted": false
   },
   "greenhouse:toast:8188648": {
-    "updated_at": "2026-09-09T11:07:00-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Strategic Markets Account Executive, SMB - Richmond, CA",
     "company": "toast",
     "ats": "greenhouse",
@@ -322416,7 +322416,7 @@
     "alerted": false
   },
   "greenhouse:toast:8188646": {
-    "updated_at": "2026-09-09T11:05:49-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Flex Territory Account Executive, SMB - East Bay/Napa",
     "company": "toast",
     "ats": "greenhouse",
@@ -322424,7 +322424,7 @@
     "alerted": false
   },
   "greenhouse:toast:8188644": {
-    "updated_at": "2026-09-09T11:03:43-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "District Manager, SMB- Atlanta, GA",
     "company": "toast",
     "ats": "greenhouse",
@@ -322592,7 +322592,7 @@
     "alerted": false
   },
   "greenhouse:toast:8177906": {
-    "updated_at": "2026-09-09T09:20:16-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Territory Account Executive, SMB - Spring Valley, NV",
     "company": "toast",
     "ats": "greenhouse",
@@ -322624,7 +322624,7 @@
     "alerted": false
   },
   "greenhouse:toast:8180655": {
-    "updated_at": "2026-09-09T08:16:04-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Growth Account Executive - Mandarin",
     "company": "toast",
     "ats": "greenhouse",
@@ -322632,7 +322632,7 @@
     "alerted": false
   },
   "greenhouse:toast:8180653": {
-    "updated_at": "2026-09-09T08:16:02-04:00",
+    "updated_at": "2026-09-09T18:27:44-04:00",
     "title": "Bilingual Growth Account Executive - Mandarin",
     "company": "toast",
     "ats": "greenhouse",
@@ -322693,6 +322693,246 @@
     "company": "payoneer",
     "ats": "greenhouse",
     "source_slug": "payoneer",
+    "alerted": false
+  },
+  "greenhouse:cloudflare:8187634": {
+    "updated_at": "2026-09-09T19:46:37-04:00",
+    "title": "Data Centre Selection Manager",
+    "company": "cloudflare",
+    "ats": "greenhouse",
+    "source_slug": "cloudflare",
+    "alerted": false
+  },
+  "greenhouse:okta:8189849": {
+    "updated_at": "2026-09-09T19:37:06-04:00",
+    "title": "Vice President, Associate General Counsel, Commercial Legal",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:carta:7990404003": {
+    "updated_at": "2026-09-09T19:27:47-04:00",
+    "title": "Workday Systems Payroll- HCM Manager",
+    "company": "carta",
+    "ats": "greenhouse",
+    "source_slug": "carta",
+    "alerted": false
+  },
+  "greenhouse:spacex:8785548002": {
+    "updated_at": "2026-09-09T19:22:58-04:00",
+    "title": "Launch Reliability Engineer",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:chime:8684363002": {
+    "updated_at": "2026-09-09T19:21:43-04:00",
+    "title": "Associate Creative Director, Growth Marketing",
+    "company": "chime",
+    "ats": "greenhouse",
+    "source_slug": "chime",
+    "alerted": false
+  },
+  "greenhouse:spacex:8790117002": {
+    "updated_at": "2026-09-09T19:21:39-04:00",
+    "title": "Recovery Engineer (F9 Booster & Fairings)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5418323008": {
+    "updated_at": "2026-09-09T19:09:53-04:00",
+    "title": "Performance Engineer, Inference Engine",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:gitlab:8792475002": {
+    "updated_at": "2026-09-09T19:09:52-04:00",
+    "title": "Director, Social Media",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "source_slug": "gitlab",
+    "alerted": false
+  },
+  "greenhouse:spacex:8730559002": {
+    "updated_at": "2026-09-09T19:06:11-04:00",
+    "title": "Executive Producer, Broadcast",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:reddit:8189894": {
+    "updated_at": "2026-09-09T18:58:38-04:00",
+    "title": "Global Indirect Tax Manager",
+    "company": "reddit",
+    "ats": "greenhouse",
+    "source_slug": "reddit",
+    "alerted": false
+  },
+  "greenhouse:anthropic:5418991008": {
+    "updated_at": "2026-09-09T18:58:27-04:00",
+    "title": "Customer Trust Specialist",
+    "company": "anthropic",
+    "ats": "greenhouse",
+    "source_slug": "anthropic",
+    "alerted": false
+  },
+  "greenhouse:airbnb:8185246": {
+    "updated_at": "2026-09-09T18:55:33-04:00",
+    "title": "Recruiting Manager, Foundation Americas",
+    "company": "airbnb",
+    "ats": "greenhouse",
+    "source_slug": "airbnb",
+    "alerted": false
+  },
+  "greenhouse:coinbase:7991839": {
+    "updated_at": "2026-09-09T18:51:43-04:00",
+    "title": "Software Engineer, Developer Infrastructure",
+    "company": "coinbase",
+    "ats": "greenhouse",
+    "source_slug": "coinbase",
+    "alerted": false
+  },
+  "greenhouse:coursera:6156821004": {
+    "updated_at": "2026-09-09T18:51:41-04:00",
+    "title": "Product Specialist",
+    "company": "coursera",
+    "ats": "greenhouse",
+    "source_slug": "coursera",
+    "alerted": false
+  },
+  "greenhouse:reddit:8189899": {
+    "updated_at": "2026-09-09T18:51:14-04:00",
+    "title": "Global Indirect Tax Manager",
+    "company": "reddit",
+    "ats": "greenhouse",
+    "source_slug": "reddit",
+    "alerted": false
+  },
+  "greenhouse:sofi:7820964003": {
+    "updated_at": "2026-09-09T18:47:16-04:00",
+    "title": "Pricing Analyst, Lending",
+    "company": "sofi",
+    "ats": "greenhouse",
+    "source_slug": "sofi",
+    "alerted": false
+  },
+  "greenhouse:twilio:8185920": {
+    "updated_at": "2026-09-09T18:42:32-04:00",
+    "title": "Vendor Operations & Governance Specialist",
+    "company": "twilio",
+    "ats": "greenhouse",
+    "source_slug": "twilio",
+    "alerted": false
+  },
+  "greenhouse:abnormalsecurity:7989737003": {
+    "updated_at": "2026-09-09T18:38:10-04:00",
+    "title": "Customer Success Manager, Enterprise (Missouri Valley)",
+    "company": "abnormalsecurity",
+    "ats": "greenhouse",
+    "source_slug": "abnormalsecurity",
+    "alerted": false
+  },
+  "greenhouse:stripe:8175675": {
+    "updated_at": "2026-09-09T18:37:28-04:00",
+    "title": "Executive Engagement Marketing Manager, Americas",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:chime:8792463002": {
+    "updated_at": "2026-09-09T18:33:02-04:00",
+    "title": "Creative Director, Brand",
+    "company": "chime",
+    "ats": "greenhouse",
+    "source_slug": "chime",
+    "alerted": false
+  },
+  "greenhouse:amplitude:8792292002": {
+    "updated_at": "2026-09-09T18:18:52-04:00",
+    "title": "Sr Billing and Collections Analyst",
+    "company": "amplitude",
+    "ats": "greenhouse",
+    "source_slug": "amplitude",
+    "alerted": false
+  },
+  "greenhouse:spacex:8788207002": {
+    "updated_at": "2026-09-09T18:18:29-04:00",
+    "title": "Production Manager, Blades and Vanes Foundry",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8792164002": {
+    "updated_at": "2026-09-09T18:13:24-04:00",
+    "title": "Real Estate Analyst",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:stripe:8172497": {
+    "updated_at": "2026-09-09T18:07:04-04:00",
+    "title": "Security Incident Response Manager, Abuse Operations",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "source_slug": "stripe",
+    "alerted": false
+  },
+  "greenhouse:gusto:8189814": {
+    "updated_at": "2026-09-09T18:01:06-04:00",
+    "title": "Partner Manager, Gusto Pro",
+    "company": "gusto",
+    "ats": "greenhouse",
+    "source_slug": "gusto",
+    "alerted": false
+  },
+  "greenhouse:ripple:7767529": {
+    "updated_at": "2026-09-09T18:01:02-04:00",
+    "title": "Treasury Manager, Global Treasury Operations",
+    "company": "ripple",
+    "ats": "greenhouse",
+    "source_slug": "ripple",
+    "alerted": false
+  },
+  "greenhouse:coursera:6186173004": {
+    "updated_at": "2026-09-09T17:59:54-04:00",
+    "title": "Staff Product Manager, Search",
+    "company": "coursera",
+    "ats": "greenhouse",
+    "source_slug": "coursera",
+    "alerted": false
+  },
+  "greenhouse:airbnb:8189352": {
+    "updated_at": "2026-09-09T17:53:03-04:00",
+    "title": "Senior Staff Editor, Creative Studio",
+    "company": "airbnb",
+    "ats": "greenhouse",
+    "source_slug": "airbnb",
+    "alerted": false
+  },
+  "greenhouse:okta:8078764": {
+    "updated_at": "2026-09-09T17:52:21-04:00",
+    "title": "Staff Product Designer, Auth0",
+    "company": "okta",
+    "ats": "greenhouse",
+    "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:airbnb:8189323": {
+    "updated_at": "2026-09-09T17:51:47-04:00",
+    "title": "Senior Brand Strategist",
+    "company": "airbnb",
+    "ats": "greenhouse",
+    "source_slug": "airbnb",
     "alerted": false
   }
 }
