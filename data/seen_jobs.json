@@ -267288,7 +267288,7 @@
     "alerted": false
   },
   "greenhouse:samsara:8079877": {
-    "updated_at": "2026-09-13T01:47:39-04:00",
+    "updated_at": "2026-09-13T06:17:39-04:00",
     "title": "Sales Manager, Mid-Market, France (Remote)",
     "company": "samsara",
     "ats": "greenhouse",
@@ -318616,7 +318616,7 @@
     "alerted": false
   },
   "greenhouse:stripe:8176724": {
-    "updated_at": "2026-09-10T13:11:58-04:00",
+    "updated_at": "2026-09-13T06:33:37-04:00",
     "title": "Sales Manager, Enterprise CEE",
     "company": "stripe",
     "ats": "greenhouse",
@@ -327837,6 +327837,22 @@
     "company": "okta",
     "ats": "greenhouse",
     "source_slug": "okta",
+    "alerted": false
+  },
+  "greenhouse:spacex:8805304002": {
+    "updated_at": "2026-09-12T20:58:55-04:00",
+    "title": "Soft Goods Technician, Cutting (Starfall)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
+    "alerted": false
+  },
+  "greenhouse:spacex:8805292002": {
+    "updated_at": "2026-09-12T20:58:35-04:00",
+    "title": "Receiving Inspector (Starfall)",
+    "company": "spacex",
+    "ats": "greenhouse",
+    "source_slug": "spacex",
     "alerted": false
   }
 }
