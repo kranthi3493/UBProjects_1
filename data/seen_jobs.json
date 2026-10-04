@@ -268552,7 +268552,7 @@
     "alerted": false
   },
   "greenhouse:twilio:8136763": {
-    "updated_at": "2026-10-01T10:28:56-04:00",
+    "updated_at": "2026-10-04T14:44:02-04:00",
     "title": "Product Manager L2 (mid-level)",
     "company": "twilio",
     "ats": "greenhouse",
@@ -268560,7 +268560,7 @@
     "alerted": false
   },
   "greenhouse:twilio:8132266": {
-    "updated_at": "2026-10-02T04:18:35-04:00",
+    "updated_at": "2026-10-04T14:42:49-04:00",
     "title": "Fraud Specialist 1",
     "company": "twilio",
     "ats": "greenhouse",
@@ -321016,7 +321016,7 @@
     "alerted": false
   },
   "greenhouse:twilio:8185918": {
-    "updated_at": "2026-10-01T10:25:56-04:00",
+    "updated_at": "2026-10-04T14:42:06-04:00",
     "title": "Compliance Operations Specialist",
     "company": "twilio",
     "ats": "greenhouse",
@@ -352888,7 +352888,7 @@
     "alerted": false
   },
   "greenhouse:instacart:8240723": {
-    "updated_at": "2026-10-02T19:34:28-04:00",
+    "updated_at": "2026-10-04T13:25:50-04:00",
     "title": "Data Operations Manager",
     "company": "instacart",
     "ats": "greenhouse",
@@ -361693,6 +361693,54 @@
     "company": "smartsheet",
     "ats": "greenhouse",
     "source_slug": "smartsheet",
+    "alerted": false
+  },
+  "greenhouse:elastic:8255438": {
+    "updated_at": "2026-10-04T14:18:47-04:00",
+    "title": "Senior Software Engineer - Streams - Observability",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:elastic:8255436": {
+    "updated_at": "2026-10-04T14:18:45-04:00",
+    "title": "Senior Software Engineer - Streams - Observability",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:elastic:8255435": {
+    "updated_at": "2026-10-04T14:18:43-04:00",
+    "title": "Senior Software Engineer - Streams - Observability",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:elastic:8229992": {
+    "updated_at": "2026-10-04T14:18:41-04:00",
+    "title": "Senior Software Engineer - Streams - Observability",
+    "company": "elastic",
+    "ats": "greenhouse",
+    "source_slug": "elastic",
+    "alerted": false
+  },
+  "greenhouse:samsara:8249717": {
+    "updated_at": "2026-10-03T11:05:47-04:00",
+    "title": "Select Major Account Executive, UK&I",
+    "company": "samsara",
+    "ats": "greenhouse",
+    "source_slug": "samsara",
+    "alerted": false
+  },
+  "greenhouse:gleanwork:4739466005": {
+    "updated_at": "2026-10-03T04:55:18-04:00",
+    "title": "Content Systems Engineer, Technical Documentation",
+    "company": "gleanwork",
+    "ats": "greenhouse",
+    "source_slug": "gleanwork",
     "alerted": false
   }
 }
